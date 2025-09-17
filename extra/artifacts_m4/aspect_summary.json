@@ -1,0 +1,462 @@
+{
+  "battery": {
+    "mentions": 83,
+    "avg_sentiment": 0.1055722891566265,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n7a4hnu",
+        "subreddit": "PcBuild",
+        "sentence": "Yes the tech nowadays is more \"intelligent\", but even the best of the best apple M4 macbooks can still potentially drain the battery overnight if there is any process running for some reason, there are many proofs on r/macbook and r/mac showing the battery draw with the lid closed.",
+        "sentiment": 0.9485
+      },
+      {
+        "name": "t3_1lk83oc",
+        "subreddit": "macbookpro",
+        "sentence": "I am honestly super tight on budget so wanna go with 14 inch but it's something that's gonna stay with me for super long so can look into investing more and get 16 inch only if both thermals and especially battery difference is worth the price jump.",
+        "sentiment": 0.9032
+      },
+      {
+        "name": "t3_1lw014p",
+        "subreddit": "mac",
+        "sentence": "Another amazing thing is the battery life, especially because I went from a gaming laptop to this so my experience went from NEEDING to be plugged in all the time to not needing a charger the whole day which just gives me such a feeling of freedom.",
+        "sentiment": 0.8591
+      },
+      {
+        "name": "t3_1m8axu1",
+        "subreddit": "mac",
+        "sentence": "Also just skipping the upgrade to the iPad for an m4 pro/max seems great too, as I wouldn’t have to be in my computer room at the house for all of my current editing, also the nice calibrated screen is a plus.",
+        "sentiment": 0.7845
+      },
+      {
+        "name": "t1_n33nopi",
+        "subreddit": "laptops",
+        "sentence": "I don't think 500 nits is ideal for either screen but having more would really help out with an OLED screen.",
+        "sentiment": 0.7639
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1mjvmx0",
+        "subreddit": "mac",
+        "sentence": "would it damage the screen as I have heard from a few people or would not putting it on harm the screen?",
+        "sentiment": -0.7717
+      },
+      {
+        "name": "t3_1m3ig3y",
+        "subreddit": "macbookpro",
+        "sentence": "I hated the battery life and heat on the i9 which is why it never became my all around device.",
+        "sentiment": -0.6369
+      },
+      {
+        "name": "t3_1lw014p",
+        "subreddit": "mac",
+        "sentence": "While the drop in refresh rate was initially annoying, the screen quality just completely makes up for it.",
+        "sentiment": -0.5859
+      },
+      {
+        "name": "t3_1l96w6y",
+        "subreddit": "laptops",
+        "sentence": "Unfortunately it has lost some keys and switches off in the middle of work and I have to keep it on charge the whole time I’m using it and it’s quite heavy .",
+        "sentiment": -0.5719
+      },
+      {
+        "name": "t3_1lsb7mw",
+        "subreddit": "macbookpro",
+        "sentence": "I'm happy with the quality of the screen of Macbook Air M4 but I'm quite somehow sucker when it comes time to display/screen.",
+        "sentiment": -0.5672
+      }
+    ]
+  },
+  "performance": {
+    "mentions": 16,
+    "avg_sentiment": 0.0033875000000000086,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n33nopi",
+        "subreddit": "laptops",
+        "sentence": "Mac wins overall as a laptop - better build quality, portability, and for single core performance.",
+        "sentiment": 0.765
+      },
+      {
+        "name": "t3_1l0mj3s",
+        "subreddit": "laptops",
+        "sentence": "* Good performance",
+        "sentiment": 0.4404
+      },
+      {
+        "name": "t3_1mhwdcw",
+        "subreddit": "laptops",
+        "sentence": "Of course, optimize for all, but here's the prioritization: performance, battery life, build quality, form factor.",
+        "sentiment": 0.2732
+      },
+      {
+        "name": "t1_n45nj0r",
+        "subreddit": "laptops",
+        "sentence": "If you need on the go performance, smooth scrubbing on battery then macbook M4 air should do just fine",
+        "sentiment": 0.2023
+      },
+      {
+        "name": "t3_1m94o3g",
+        "subreddit": "laptops",
+        "sentence": "I want to know if the base model M4 macbook air and macbook pro will have around the same performance (or more) then my laptop.",
+        "sentiment": 0.0772
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t1_myvfk45",
+        "subreddit": "photography",
+        "sentence": "I'm just worried it will lag in lightroom since it's a windows and also not a mac silicon cpu.",
+        "sentiment": -0.5574
+      },
+      {
+        "name": "t3_1mhmmqv",
+        "subreddit": "laptops",
+        "sentence": "I spent around $1500 on it however I’m not a big fun as it’s bulky, loud, and a bit slow.",
+        "sentiment": -0.4023
+      },
+      {
+        "name": "t3_1ln6ijo",
+        "subreddit": "macbookpro",
+        "sentence": "My current laptop is a 2017 MacBook Pro that I can no longer update and has to be kept plugged in to turn on and is incredibly slow.",
+        "sentiment": -0.296
+      },
+      {
+        "name": "t3_1l6co6x",
+        "subreddit": "GamingLaptops",
+        "sentence": "I also have a Steam Deck OLED to play my games, but with recent and FPS games not working on it, I feel kind of limited.",
+        "sentiment": -0.2708
+      },
+      {
+        "name": "t3_1lcmemu",
+        "subreddit": "GamingLaptops",
+        "sentence": "I find it very hard to understand the performance difference of these two sales I found an internal discount program I have access to.",
+        "sentiment": -0.1761
+      }
+    ]
+  },
+  "display": {
+    "mentions": 46,
+    "avg_sentiment": 0.06862826086956521,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1lw014p",
+        "subreddit": "mac",
+        "sentence": "The sharpness and colours are just amazing, I don't think I've ever seen such a good display on a laptop before.",
+        "sentiment": 0.7717
+      },
+      {
+        "name": "t1_n33nopi",
+        "subreddit": "laptops",
+        "sentence": "I don't think 500 nits is ideal for either screen but having more would really help out with an OLED screen.",
+        "sentiment": 0.7639
+      },
+      {
+        "name": "t3_1ll7652",
+        "subreddit": "macbookpro",
+        "sentence": "That said, I also appreciate good design and integrated features—especially the Studio Display’s built-in speakers and that signature Apple build quality.",
+        "sentiment": 0.6808
+      },
+      {
+        "name": "t3_1lzctl4",
+        "subreddit": "mac",
+        "sentence": "I’ll need to buy a **separate monitor** for this setup — any **recommendations for a good display** in the $100–150 USD (₹8K–12K INR) range for coding, multitasking, and eye comfort?",
+        "sentiment": 0.6597
+      },
+      {
+        "name": "t3_1ll7652",
+        "subreddit": "macbookpro",
+        "sentence": "On the one hand I feel it is **not** a good bang for buck display and I would like to wait for a thunderbolt 5 display (as I run a new Macbook M4 Pro) ..",
+        "sentiment": 0.5096
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1lsb7mw",
+        "subreddit": "macbookpro",
+        "sentence": "I'm happy with the quality of the screen of Macbook Air M4 but I'm quite somehow sucker when it comes time to display/screen.",
+        "sentiment": -0.5672
+      },
+      {
+        "name": "t3_1lmyp47",
+        "subreddit": "macbookpro",
+        "sentence": "iPhone's camera color-correction and autofocus are taking their unlimited sick days off as per usual, so it doesn't represent the issue correctly.",
+        "sentiment": -0.5106
+      },
+      {
+        "name": "t3_1libirn",
+        "subreddit": "macbookpro",
+        "sentence": "Macbook M4 Pro 2025 Display - Dirt/Mug or Damage?",
+        "sentiment": -0.4939
+      },
+      {
+        "name": "t3_1libirn",
+        "subreddit": "macbookpro",
+        "sentence": "I don't know if this is a damage in the display or an animal/dirt under the glas?",
+        "sentiment": -0.4939
+      },
+      {
+        "name": "t1_myvfk45",
+        "subreddit": "photography",
+        "sentence": "Hey guys, I ordered a Lenovo Ideapad Pro 5 16 inch OLED for 1100usd, but now I'm worried if I should have gotten a Macbook M4 Air 15 inch 24gb ram instead, but for 550usd more?",
+        "sentiment": -0.4215
+      }
+    ]
+  },
+  "ports": {
+    "mentions": 52,
+    "avg_sentiment": 0.07065384615384616,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1lqc5d1",
+        "subreddit": "macbookpro",
+        "sentence": "I'd like for it to have a good number of ports and support charging.",
+        "sentiment": 0.8126
+      },
+      {
+        "name": "t3_1lx68i2",
+        "subreddit": "mac",
+        "sentence": "By complete chance I connected an HDMI directly from my MacBook to the TV’s HDMI 2.1 port, it works perfectly at 4K 144Hz.",
+        "sentiment": 0.7351
+      },
+      {
+        "name": "t1_n3f8xw9",
+        "subreddit": "laptops",
+        "sentence": "Makes sense and I appreciate your support with such a detailed guide, I'll go for MacBook M4 Chip with 16GB/512GB 13 inch with an external SSD for large files.",
+        "sentiment": 0.6597
+      },
+      {
+        "name": "t3_1m668dm",
+        "subreddit": "macbookpro",
+        "sentence": "Could you please tell me if a MacBook Pro with M4 Pro, 24GB RAM, and 512GB SSD for $1700 (brand new and sealed) is a good deal for data science tasks?",
+        "sentiment": 0.6369
+      },
+      {
+        "name": "t1_n0jl6bo",
+        "subreddit": "mac",
+        "sentence": "The Satechi Mini NVMe SSD Enclosure is a practical solution for expanding storage on a MacBook with 2230mm SSDs and its design is focused on portability.",
+        "sentiment": 0.5994
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t1_mwcr8bl",
+        "subreddit": "laptops",
+        "sentence": "Louis Rossman points out that SSD is soldered and wired to short to ground which can kill the entire thing rendering it unrecoverable:",
+        "sentiment": -0.6908
+      },
+      {
+        "name": "t3_1lw014p",
+        "subreddit": "mac",
+        "sentence": "Its just an inconvenience because I was forced to buy a bluetooth mouse and a usb hub to make all my stuff work.",
+        "sentiment": -0.6705
+      },
+      {
+        "name": "t3_1lx68i2",
+        "subreddit": "mac",
+        "sentence": "I recently got the itch to try 144Hz and bought this Belkin USB‑C to HDMI 2.1 cable ([https://www.jbhifi.business/belkin-usb-c-to-hdmi-2-1-cable-2m](https://www.jbhifi.business/belkin-usb-c-to-hdmi-2-1-cable-2m)), but no luck, still at 60Hz, probably due to USB-C limitations??",
+        "sentiment": -0.5544
+      },
+      {
+        "name": "t3_1m6kod3",
+        "subreddit": "Monitors",
+        "sentence": "I was looking into Dell UltraSharp U2725QE 27\" 4K, but (1) would like to avoid buying two monitors with a USB hub, and (2) heard there was a noticeable coil whine when its quiet.",
+        "sentiment": -0.4215
+      },
+      {
+        "name": "t3_1lw014p",
+        "subreddit": "mac",
+        "sentence": "IO ports: this was another sore thing for me because having only a charging port, 2 usb c ports and headphone jack is really limiting compared to all my previous devices having multiple usb a ports, usb c, sd card, RJ45, HDMI and headphone jack.",
+        "sentiment": -0.3612
+      }
+    ]
+  },
+  "weight/noise": {
+    "mentions": 8,
+    "avg_sentiment": 0.072125,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1lsb7mw",
+        "subreddit": "macbookpro",
+        "sentence": "* **Size/Weight (-)** \\- This is what made me fell in love with Macbook Air M4, the size and weight.",
+        "sentiment": 0.6369
+      },
+      {
+        "name": "t3_1lsb7mw",
+        "subreddit": "macbookpro",
+        "sentence": "Or the Macbook Air M4's screen and speakers are good enough already given with the advantage of the size/weight than the Macbook Pro M4?",
+        "sentiment": 0.5994
+      },
+      {
+        "name": "t3_1lsb7mw",
+        "subreddit": "macbookpro",
+        "sentence": "It's my first personal laptop in 12 years and I'm happy with it especially when it comes to screen, speaker and size/weight.",
+        "sentiment": 0.5719
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1m6kod3",
+        "subreddit": "Monitors",
+        "sentence": "I was looking into Dell UltraSharp U2725QE 27\" 4K, but (1) would like to avoid buying two monitors with a USB hub, and (2) heard there was a noticeable coil whine when its quiet.",
+        "sentiment": -0.4215
+      },
+      {
+        "name": "t3_1mhmmqv",
+        "subreddit": "laptops",
+        "sentence": "I spent around $1500 on it however I’m not a big fun as it’s bulky, loud, and a bit slow.",
+        "sentiment": -0.4023
+      },
+      {
+        "name": "t3_1lsb7mw",
+        "subreddit": "macbookpro",
+        "sentence": "I'm moving within our house (small) between living room, bedroom or kitchen once in a while so I don't think the size/weight will matter though I'm not sure if it's on my lap (if I'm in bed).",
+        "sentiment": -0.2173
+      },
+      {
+        "name": "t3_1m94o3g",
+        "subreddit": "laptops",
+        "sentence": "I already have a gaming laptop with an i7 and 3060, but the fan noise annoys me, especially when i record and you can hear it in the background.",
+        "sentiment": -0.1901
+      }
+    ]
+  },
+  "keyboard": {
+    "mentions": 17,
+    "avg_sentiment": 0.04445294117647059,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1mhwdcw",
+        "subreddit": "laptops",
+        "sentence": "* Any specific requirements such as good keyboard, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)?",
+        "sentiment": 0.7003
+      },
+      {
+        "name": "t3_1m62h4o",
+        "subreddit": "mac",
+        "sentence": "Basically it gets EXTREMELY hot on the metal part above the keyboard, and pretty warm on the palmrests.",
+        "sentiment": 0.6249
+      },
+      {
+        "name": "t3_1l0kym9",
+        "subreddit": "mac",
+        "sentence": "The way to go seems to be keeping the screen and keyboard clean.",
+        "sentiment": 0.4019
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1l96w6y",
+        "subreddit": "laptops",
+        "sentence": "Unfortunately it has lost some keys and switches off in the middle of work and I have to keep it on charge the whole time I’m using it and it’s quite heavy .",
+        "sentiment": -0.5719
+      },
+      {
+        "name": "t3_1l0kym9",
+        "subreddit": "mac",
+        "sentence": "I know the usual recommendations are to not use any protective accessories like hard shells, keyboard covers, and screen protectors, as they can damage the hinge and screen.",
+        "sentiment": -0.2732
+      },
+      {
+        "name": "t3_1lq66as",
+        "subreddit": "mac",
+        "sentence": "Also what is up with the keyboard covers and does the keyboard really leave an imprint on the screen?",
+        "sentiment": -0.1263
+      }
+    ]
+  },
+  "thermals": {
+    "mentions": 13,
+    "avg_sentiment": 0.12853846153846155,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1lk83oc",
+        "subreddit": "macbookpro",
+        "sentence": "I am honestly super tight on budget so wanna go with 14 inch but it's something that's gonna stay with me for super long so can look into investing more and get 16 inch only if both thermals and especially battery difference is worth the price jump.",
+        "sentiment": 0.9032
+      },
+      {
+        "name": "t3_1m62h4o",
+        "subreddit": "mac",
+        "sentence": "Basically it gets EXTREMELY hot on the metal part above the keyboard, and pretty warm on the palmrests.",
+        "sentiment": 0.6249
+      },
+      {
+        "name": "t1_mxrrmk3",
+        "subreddit": "laptops",
+        "sentence": "If I were u, to future proof a bit and have better thermals just in case ur doing something very heavy, I would go for the pro 24 GB if possible.",
+        "sentiment": 0.4404
+      },
+      {
+        "name": "t1_mxrrmk3",
+        "subreddit": "laptops",
+        "sentence": "Unless ur giving a MacBook Air m4 a heavy workload then it won’t heat up.",
+        "sentiment": 0.34
+      },
+      {
+        "name": "t1_n4ekqhy",
+        "subreddit": "mac",
+        "sentence": "The MacBook M4 Air does not have any internal fan.",
+        "sentiment": 0.3182
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1m3ig3y",
+        "subreddit": "macbookpro",
+        "sentence": "I hated the battery life and heat on the i9 which is why it never became my all around device.",
+        "sentiment": -0.6369
+      },
+      {
+        "name": "t3_1lmyp47",
+        "subreddit": "macbookpro",
+        "sentence": "To me, looks like heat damage from the fan exhaust, as these vertical shadows on the left and right are right in front of these main exhausts.",
+        "sentiment": -0.4019
+      },
+      {
+        "name": "t3_1m94o3g",
+        "subreddit": "laptops",
+        "sentence": "I already have a gaming laptop with an i7 and 3060, but the fan noise annoys me, especially when i record and you can hear it in the background.",
+        "sentiment": -0.1901
+      }
+    ]
+  },
+  "trackpad": {
+    "mentions": 14,
+    "avg_sentiment": 0.04147857142857143,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1mhwdcw",
+        "subreddit": "laptops",
+        "sentence": "* Any specific requirements such as good keyboard, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)?",
+        "sentiment": 0.7003
+      },
+      {
+        "name": "t3_1lnbskh",
+        "subreddit": "mac",
+        "sentence": "Everything else like trackpad and all is fine...",
+        "sentiment": 0.5106
+      },
+      {
+        "name": "t3_1lnbwfh",
+        "subreddit": "macbookpro",
+        "sentence": "Everything else like trackpad and all is fine...",
+        "sentiment": 0.5106
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1m4rl39",
+        "subreddit": "mac",
+        "sentence": "But after 10-15 minutes my fingers gets very dry including trackpad and it becomes really difficult to use that.",
+        "sentiment": -0.5704
+      },
+      {
+        "name": "t3_1m4rlob",
+        "subreddit": "macbookpro",
+        "sentence": "But after 10-15 minutes my fingers gets very dry including trackpad and it becomes really difficult to use that.",
+        "sentiment": -0.5704
+      }
+    ]
+  }
+}

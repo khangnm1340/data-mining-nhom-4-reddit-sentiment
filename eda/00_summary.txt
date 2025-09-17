@@ -1,0 +1,6 @@
+Posts rows: 134121
+Comments rows: 1300190
+Posts columns: ['archived', 'author', 'created_utc', 'domain', 'hide_score', 'id', 'is_crosspostable', 'is_self', 'is_video', 'name', 'num_comments', 'num_crossposts', 'media_only', 'over_18', 'permalink', 'pinned', 'retrieved_on', 'selftext', 'send_replies', 'stickied', 'subreddit', 'subreddit_id', 'subreddit_name_prefixed', 'subreddit_subscribers', 'thumbnail', 'title', 'score', 'upvote_ratio']
+Comments columns: ['archived', 'author', 'body', 'created_utc', 'name', 'id', 'is_submitter', 'link_id', 'locked', 'parent_id', 'permalink', 'retrieved_on', 'score', 'score_hidden', 'subreddit', 'subreddit_id', 'subreddit_name_prefixed']
+Unique post subreddits: 16
+Unique comment subreddits: 16

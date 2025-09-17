@@ -1,0 +1,166 @@
+{
+  "GamingLaptops": {
+    "battery": {
+      "mentions": 2,
+      "avg_sentiment": 0.36135
+    },
+    "performance": {
+      "mentions": 2,
+      "avg_sentiment": -0.22344999999999998
+    },
+    "display": {
+      "mentions": 1,
+      "avg_sentiment": -0.2708
+    },
+    "ports": {
+      "mentions": 1,
+      "avg_sentiment": 0.3919
+    }
+  },
+  "Monitors": {
+    "ports": {
+      "mentions": 13,
+      "avg_sentiment": -0.01319230769230769
+    },
+    "battery": {
+      "mentions": 5,
+      "avg_sentiment": -0.05720000000000001
+    },
+    "display": {
+      "mentions": 2,
+      "avg_sentiment": 0.0
+    },
+    "weight/noise": {
+      "mentions": 1,
+      "avg_sentiment": -0.4215
+    }
+  },
+  "laptops": {
+    "performance": {
+      "mentions": 8,
+      "avg_sentiment": 0.179125
+    },
+    "battery": {
+      "mentions": 17,
+      "avg_sentiment": 0.16890000000000002
+    },
+    "display": {
+      "mentions": 4,
+      "avg_sentiment": 0.369375
+    },
+    "keyboard": {
+      "mentions": 2,
+      "avg_sentiment": 0.06420000000000003
+    },
+    "thermals": {
+      "mentions": 3,
+      "avg_sentiment": 0.19676666666666667
+    },
+    "weight/noise": {
+      "mentions": 2,
+      "avg_sentiment": -0.2962
+    },
+    "ports": {
+      "mentions": 5,
+      "avg_sentiment": 0.08553999999999999
+    },
+    "trackpad": {
+      "mentions": 1,
+      "avg_sentiment": 0.7003
+    }
+  },
+  "mac": {
+    "keyboard": {
+      "mentions": 11,
+      "avg_sentiment": 0.057027272727272725
+    },
+    "battery": {
+      "mentions": 19,
+      "avg_sentiment": 0.07394736842105262
+    },
+    "ports": {
+      "mentions": 18,
+      "avg_sentiment": 0.02130555555555555
+    },
+    "display": {
+      "mentions": 16,
+      "avg_sentiment": 0.11731875
+    },
+    "trackpad": {
+      "mentions": 4,
+      "avg_sentiment": -0.014949999999999991
+    },
+    "thermals": {
+      "mentions": 5,
+      "avg_sentiment": 0.24325999999999998
+    },
+    "performance": {
+      "mentions": 1,
+      "avg_sentiment": 0.0
+    }
+  },
+  "macbookpro": {
+    "ports": {
+      "mentions": 13,
+      "avg_sentiment": 0.16938461538461538
+    },
+    "trackpad": {
+      "mentions": 9,
+      "avg_sentiment": -0.006644444444444441
+    },
+    "battery": {
+      "mentions": 35,
+      "avg_sentiment": 0.0800085714285714
+    },
+    "performance": {
+      "mentions": 4,
+      "avg_sentiment": -0.093625
+    },
+    "display": {
+      "mentions": 21,
+      "avg_sentiment": 0.023552380952380953
+    },
+    "thermals": {
+      "mentions": 5,
+      "avg_sentiment": -0.027119999999999988
+    },
+    "keyboard": {
+      "mentions": 4,
+      "avg_sentiment": 0.0
+    },
+    "weight/noise": {
+      "mentions": 5,
+      "avg_sentiment": 0.31818
+    }
+  },
+  "PcBuild": {
+    "battery": {
+      "mentions": 2,
+      "avg_sentiment": 0.51285
+    }
+  },
+  "iphone": {
+    "battery": {
+      "mentions": 1,
+      "avg_sentiment": 0.0
+    }
+  },
+  "photography": {
+    "display": {
+      "mentions": 2,
+      "avg_sentiment": -0.21075
+    },
+    "ports": {
+      "mentions": 2,
+      "avg_sentiment": 0.2202
+    },
+    "battery": {
+      "mentions": 2,
+      "avg_sentiment": 0.11175
+    },
+    "performance": {
+      "mentions": 1,
+      "avg_sentiment": -0.5574
+    }
+  }
+}

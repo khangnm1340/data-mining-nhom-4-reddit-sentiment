@@ -1,0 +1,132 @@
+{
+  "r/unknown": {
+    "sound": {
+      "mentions": 1146,
+      "avg_sentiment": 0.28361675392670155
+    },
+    "build": {
+      "mentions": 1443,
+      "avg_sentiment": 0.216461261261261
+    },
+    "reliability": {
+      "mentions": 1398,
+      "avg_sentiment": 0.22672896995708136
+    },
+    "switches/stabs/keycaps": {
+      "mentions": 1261,
+      "avg_sentiment": 0.21603988897700227
+    },
+    "uniformity": {
+      "mentions": 1248,
+      "avg_sentiment": 0.21557331730769222
+    },
+    "health/fitness": {
+      "mentions": 1251,
+      "avg_sentiment": 0.21534532374100704
+    },
+    "brightness": {
+      "mentions": 1250,
+      "avg_sentiment": 0.2156379199999999
+    },
+    "soundstage/imaging": {
+      "mentions": 771,
+      "avg_sentiment": 0.3209053177691313
+    },
+    "power/amp": {
+      "mentions": 661,
+      "avg_sentiment": 0.19951649016641423
+    },
+    "bass": {
+      "mentions": 410,
+      "avg_sentiment": 0.2954365853658534
+    },
+    "aesthetics": {
+      "mentions": 86,
+      "avg_sentiment": 0.22986046511627908
+    },
+    "dynamic range": {
+      "mentions": 10,
+      "avg_sentiment": 0.32099
+    },
+    "comfort": {
+      "mentions": 593,
+      "avg_sentiment": 0.16857622259696448
+    },
+    "performance": {
+      "mentions": 83,
+      "avg_sentiment": 0.3638506024096384
+    },
+    "autofocus": {
+      "mentions": 25,
+      "avg_sentiment": 0.20602399999999996
+    },
+    "ports": {
+      "mentions": 39,
+      "avg_sentiment": 0.10266410256410256
+    },
+    "panel": {
+      "mentions": 10,
+      "avg_sentiment": 0.17449
+    },
+    "display": {
+      "mentions": 22,
+      "avg_sentiment": 0.21753181818181816
+    },
+    "low-light": {
+      "mentions": 48,
+      "avg_sentiment": 0.05303125000000001
+    },
+    "response": {
+      "mentions": 204,
+      "avg_sentiment": 0.3197901960784313
+    },
+    "treble": {
+      "mentions": 355,
+      "avg_sentiment": 0.2871022535211265
+    },
+    "battery": {
+      "mentions": 191,
+      "avg_sentiment": 0.3081937172774867
+    },
+    "refresh": {
+      "mentions": 203,
+      "avg_sentiment": 0.3421078817733986
+    },
+    "calibration": {
+      "mentions": 234,
+      "avg_sentiment": 0.19324957264957265
+    },
+    "mids": {
+      "mentions": 186,
+      "avg_sentiment": 0.323613440860215
+    },
+    "weight/noise": {
+      "mentions": 109,
+      "avg_sentiment": 0.16425871559633026
+    },
+    "placement": {
+      "mentions": 23,
+      "avg_sentiment": 0.1671695652173913
+    },
+    "airflow/thermals": {
+      "mentions": 23,
+      "avg_sentiment": 0.40018695652173913
+    },
+    "thermals": {
+      "mentions": 36,
+      "avg_sentiment": 0.3052527777777776
+    },
+    "noise": {
+      "mentions": 84,
+      "avg_sentiment": 0.12381904761904765
+    },
+    "cpu/gpu/psu": {
+      "mentions": 10,
+      "avg_sentiment": 0.08347999999999997
+    },
+    "contrast": {
+      "mentions": 13,
+      "avg_sentiment": 0.35157692307692306
+    }
+  }
+}

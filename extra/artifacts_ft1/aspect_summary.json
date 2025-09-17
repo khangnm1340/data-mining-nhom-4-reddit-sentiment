@@ -1,0 +1,478 @@
+{
+  "build": {
+    "mentions": 883,
+    "avg_sentiment": 0.20915956964892424,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n391b06",
+        "subreddit": "headphones",
+        "sentence": "HE560 is about as good as EDXS maybe slightly worse for detail but better soundstage, it's like Sundara with better soundstage basically, If you don't mind slightly worse take a look at FiiO FT1 Pro for $199, if you want something as good as EDXS and not Hifiman you need to spend $800+, Arya Stealth is good option from Hifiman, basically EDXS but with much better soundstage but it's also sharper sounding, not same tuning like Sundara and HD560",
+        "sentiment": 0.9747
+      },
+      {
+        "name": "t1_n5hdpmw",
+        "subreddit": "headphones",
+        "sentence": "* Meze 99 Classics its way bassier than the FT1, a little bit darker too, but its impressively well built, super comfortable and Meze themselves sell a cable kit to add a Microphone to it in a way that looks amazing.",
+        "sentiment": 0.974
+      },
+      {
+        "name": "t1_n1rsdst",
+        "subreddit": "headphones",
+        "sentence": "If u still can't decide after that, genuinely just keep the ft1 cuz it sounds like u liked it better, but so know that the pro is technically \"better\" (but whichever u like better is truly better)",
+        "sentiment": 0.9728
+      },
+      {
+        "name": "t1_n70xg4t",
+        "subreddit": "headphones",
+        "sentence": "Fiio FT1 is great but not as detailed or stagey, Sony MDR-M1 is a lot more neutral and very bass-light by comparison, sennheiser HD620S is pretty boxy and very \"closed\" feeling, Azurys has better bass and stage than the HD620S but follows a different tuning philosophy vs radiance (I'd say it's upgraded MDR-M1 as it's similar tuning, better detail retrieval and dynamics), Noire X once again is a more neutral leaning headphone and while it has good punch and slam (prob similar to Azurys?), it's nowhere near the radiance.",
+        "sentiment": 0.9655
+      },
+      {
+        "name": "t3_1ld6rz1",
+        "subreddit": "headphones",
+        "sentence": "I'll need to do more A/B testing, but the FT1 is pretty unequivocally better than any bluetooth over-ear, I think its better than my AKG K702, and I'll need to do more comparison of it vs the Sundara, but it might be the best headphone I have up until the Aria Stealth price point.",
+        "sentiment": 0.9604
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t1_n5ihk47",
+        "subreddit": "headphones",
+        "sentence": "I still didn't know what a headphone amp was, but I thought it seemed unfair that I had a surplus of power when listening in my living room, but was still so starved when I slipped on my headphones, so I went to radio shack and purchased a Speaker A/B switcher and a 1/4 inch TRS headphone jack to remedy that.",
+        "sentiment": -0.9113
+      },
+      {
+        "name": "t1_n76y2j2",
+        "subreddit": "headphones",
+        "sentence": "I'm not too sensitive to treble peak, but in 770 Pro X it was painfully harsh.",
+        "sentiment": -0.8573
+      },
+      {
+        "name": "t3_1lhnrow",
+        "subreddit": "headphones",
+        "sentence": "But to actually feel like I'm listening to it the way the artist wanted me to, and now hearing it and processing it is crazy like damn, that shit crazy.",
+        "sentiment": -0.8462
+      },
+      {
+        "name": "t1_n0qf3oa",
+        "subreddit": "headphones",
+        "sentence": "I've got downvoted or said that i was wrong whenever mentioning anything bad about those headphones (i could avoid it...",
+        "sentiment": -0.8316
+      },
+      {
+        "name": "t1_mvx0ypp",
+        "subreddit": "headphones",
+        "sentence": "It spits bullshit on things it should know half the time, don't ask it to spit bullshit on something *it cannot physically experience*.",
+        "sentiment": -0.8225
+      }
+    ]
+  },
+  "soundstage/imaging": {
+    "mentions": 438,
+    "avg_sentiment": 0.3163931506849315,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n391b06",
+        "subreddit": "headphones",
+        "sentence": "HE560 is about as good as EDXS maybe slightly worse for detail but better soundstage, it's like Sundara with better soundstage basically, If you don't mind slightly worse take a look at FiiO FT1 Pro for $199, if you want something as good as EDXS and not Hifiman you need to spend $800+, Arya Stealth is good option from Hifiman, basically EDXS but with much better soundstage but it's also sharper sounding, not same tuning like Sundara and HD560",
+        "sentiment": 0.9747
+      },
+      {
+        "name": "t1_n1rsdst",
+        "subreddit": "headphones",
+        "sentence": "If u still can't decide after that, genuinely just keep the ft1 cuz it sounds like u liked it better, but so know that the pro is technically \"better\" (but whichever u like better is truly better)",
+        "sentiment": 0.9728
+      },
+      {
+        "name": "t1_n70xg4t",
+        "subreddit": "headphones",
+        "sentence": "Fiio FT1 is great but not as detailed or stagey, Sony MDR-M1 is a lot more neutral and very bass-light by comparison, sennheiser HD620S is pretty boxy and very \"closed\" feeling, Azurys has better bass and stage than the HD620S but follows a different tuning philosophy vs radiance (I'd say it's upgraded MDR-M1 as it's similar tuning, better detail retrieval and dynamics), Noire X once again is a more neutral leaning headphone and while it has good punch and slam (prob similar to Azurys?), it's nowhere near the radiance.",
+        "sentiment": 0.9655
+      },
+      {
+        "name": "t1_n54kp71",
+        "subreddit": "headphones",
+        "sentence": "If the FT1 doesn't work for you, I'd strongly consider the used market; I've gotten Focal Elegia under $200 (they're a bass-light tune, but super comfortable and beautiful sound), and the DCA Aeon x Closed around $300.",
+        "sentiment": 0.9565
+      },
+      {
+        "name": "t1_n584p3o",
+        "subreddit": "headphones",
+        "sentence": "But I will say that the FT1 sound fantastic, I'm sure the Pro are great as well.",
+        "sentiment": 0.9528
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1m3wejy",
+        "subreddit": "headphones",
+        "sentence": "🌟 [**Audeze Maxwell**](https://kuulokenurkka.squig.link/?share=Maxwell_(Audeze_Preset)_**) **($300)** — Best-in-class sound (for headsets and beyond), but they are SO FUCKING HEAVY AND UNCOMFORTABLE.",
+        "sentiment": -0.7836
+      },
+      {
+        "name": "t1_n5cu3sx",
+        "subreddit": "headphones",
+        "sentence": "(Pressure in ear canal, general discomfort, lack of soundstage)",
+        "sentiment": -0.743
+      },
+      {
+        "name": "t3_1lfivoi",
+        "subreddit": "headphones",
+        "sentence": "Now I'm thinking that I have a treble sensitivity AND a sound pressure sensitivity - but why then would the Arya hurt?",
+        "sentiment": -0.7351
+      },
+      {
+        "name": "t1_n3h3fza",
+        "subreddit": "headphones",
+        "sentence": "I had an older HyperX cloud whatever and it's made out of cheap plastic, sounds terrible, not really comfortable, dogshit mic.",
+        "sentiment": -0.7201
+      },
+      {
+        "name": "t1_n489svy",
+        "subreddit": "headphones",
+        "sentence": "I haven't personally tried the Azurys, but I didn't like the clear MG's at *all* when I tried them, so maybe the Focal house sound just isn't for some folks.",
+        "sentiment": -0.6642
+      }
+    ]
+  },
+  "power/amp": {
+    "mentions": 331,
+    "avg_sentiment": 0.19097250755286993,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n54kp71",
+        "subreddit": "headphones",
+        "sentence": "If the FT1 doesn't work for you, I'd strongly consider the used market; I've gotten Focal Elegia under $200 (they're a bass-light tune, but super comfortable and beautiful sound), and the DCA Aeon x Closed around $300.",
+        "sentiment": 0.9565
+      },
+      {
+        "name": "t1_n5hdpmw",
+        "subreddit": "headphones",
+        "sentence": "R2R DAC will usually add a bit of harmonic distortion but its 4th harmonics same as Tubes so those are desired because they usually make things sound better thanks to psycho-acoustics.",
+        "sentiment": 0.9422
+      },
+      {
+        "name": "t1_myems6h",
+        "subreddit": "headphones",
+        "sentence": "Good iem cables these days are plentiful and dirt cheap with all sorts of tips and adapters to fit any dac/amp you could ever want while headphone cables are still a little bit behind, BUT iems tend to be very sensitive and easy to run out of anything, even ft1s have a sensitivity of 113dB/Vrms compared to something like 122dB/Vrms on good old moondrop starfields.",
+        "sentiment": 0.9259
+      },
+      {
+        "name": "t1_n2os76j",
+        "subreddit": "headphones",
+        "sentence": "Super easy to power too - the Fiio will play loud and sound great out of almost anything.",
+        "sentiment": 0.9231
+      },
+      {
+        "name": "t1_mw2a2ku",
+        "subreddit": "headphones",
+        "sentence": "I use mostly my Kiwi Ears Ellipse with TRN Black Pearl with 4.4 cable from Tripowin GranVia this dac incredible for this 32ohm headphones think to change earpads later only speakers on this is from Fiio FT1 great speakers and better fit than FT1 like beyerdinamic style",
+        "sentiment": 0.9001
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t1_n5ihk47",
+        "subreddit": "headphones",
+        "sentence": "I still didn't know what a headphone amp was, but I thought it seemed unfair that I had a surplus of power when listening in my living room, but was still so starved when I slipped on my headphones, so I went to radio shack and purchased a Speaker A/B switcher and a 1/4 inch TRS headphone jack to remedy that.",
+        "sentiment": -0.9113
+      },
+      {
+        "name": "t1_n0qf3oa",
+        "subreddit": "headphones",
+        "sentence": "I've got downvoted or said that i was wrong whenever mentioning anything bad about those headphones (i could avoid it...",
+        "sentiment": -0.8316
+      },
+      {
+        "name": "t1_n54kp71",
+        "subreddit": "headphones",
+        "sentence": "AKG 371 is a decent option, though I've had bad enough QC issues with them that I no longer have a pair (wrong product, wild channel imbalance, etc.).",
+        "sentiment": -0.8316
+      },
+      {
+        "name": "t1_n5ihk47",
+        "subreddit": "headphones",
+        "sentence": "Some systems, may seem weak, you may never approach the true threshold of their capability, just because the source signal is too weak and fails to drive the volume as far as it might easily go.",
+        "sentiment": -0.8192
+      },
+      {
+        "name": "t1_n479kz4",
+        "subreddit": "headphones",
+        "sentence": "Im on iphone with a Btr5 Dac so no tool to EQ the fiio ft1 except for the shitty spotify equalizer, any tips?",
+        "sentiment": -0.7555
+      }
+    ]
+  },
+  "bass": {
+    "mentions": 288,
+    "avg_sentiment": 0.32822743055555526,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n70xg4t",
+        "subreddit": "headphones",
+        "sentence": "Fiio FT1 is great but not as detailed or stagey, Sony MDR-M1 is a lot more neutral and very bass-light by comparison, sennheiser HD620S is pretty boxy and very \"closed\" feeling, Azurys has better bass and stage than the HD620S but follows a different tuning philosophy vs radiance (I'd say it's upgraded MDR-M1 as it's similar tuning, better detail retrieval and dynamics), Noire X once again is a more neutral leaning headphone and while it has good punch and slam (prob similar to Azurys?), it's nowhere near the radiance.",
+        "sentiment": 0.9655
+      },
+      {
+        "name": "t1_n54kp71",
+        "subreddit": "headphones",
+        "sentence": "If the FT1 doesn't work for you, I'd strongly consider the used market; I've gotten Focal Elegia under $200 (they're a bass-light tune, but super comfortable and beautiful sound), and the DCA Aeon x Closed around $300.",
+        "sentiment": 0.9565
+      },
+      {
+        "name": "t1_n5hdpmw",
+        "subreddit": "headphones",
+        "sentence": "* For a bit more money the AUNE SR7000 are not as punchy as the Meze 99 or the FT1 are, more similar to the HD620 mid-forward and mid-bass, but they are a banger in comfort too and super premium built, and happen to be very good for games for extra clarity.",
+        "sentiment": 0.9548
+      },
+      {
+        "name": "t3_1majkia",
+        "subreddit": "headphones",
+        "sentence": "You might argue that the Meze Liric 2 or the Dan Clarke E3 have amazing bass, and i agree, but there is a difference between \"great bass\" and \"it literally makes the hairs on my arms stand when a deep thump appears in a song or a movie\" great bass.",
+        "sentiment": 0.9408
+      },
+      {
+        "name": "t1_n0n4gi7",
+        "subreddit": "headphones",
+        "sentence": "After giving them couple more days (and a silent room for listening sessions) now I can hear NICE details and I love the sound of cymbals :D bass and sub-bass is very delicate and probably too well-behaved.",
+        "sentiment": 0.9399
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1l8g5qk",
+        "subreddit": "headphones",
+        "sentence": "It's rumbly, but the mids and highs feel absolutely drowned in the bass.",
+        "sentiment": -0.7776
+      },
+      {
+        "name": "t3_1l8g5qk",
+        "subreddit": "headphones",
+        "sentence": "Warm, and decent bass, but so dark it felt boring and dull by comparison to the Fiio.",
+        "sentiment": -0.7227
+      },
+      {
+        "name": "t3_1m3wejy",
+        "subreddit": "headphones",
+        "sentence": "Stock tuning shouts painfully at 6kHz and has no sub-bass whatsoever.",
+        "sentiment": -0.6808
+      },
+      {
+        "name": "t1_n3m9wb8",
+        "subreddit": "headphones",
+        "sentence": "The Veiled Treble quality and the lack of authentic mid's/bass leave me disappointed.",
+        "sentiment": -0.6808
+      },
+      {
+        "name": "t1_mz4yybe",
+        "subreddit": "headphones",
+        "sentence": "Sennheiser is nice but the lack of bass coming from them kinda annoys me.",
+        "sentiment": -0.6497
+      }
+    ]
+  },
+  "treble": {
+    "mentions": 247,
+    "avg_sentiment": 0.2734048582995949,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n54kp71",
+        "subreddit": "headphones",
+        "sentence": "If the FT1 doesn't work for you, I'd strongly consider the used market; I've gotten Focal Elegia under $200 (they're a bass-light tune, but super comfortable and beautiful sound), and the DCA Aeon x Closed around $300.",
+        "sentiment": 0.9565
+      },
+      {
+        "name": "t1_n7il7x1",
+        "subreddit": "headphones",
+        "sentence": "I happen to prefer 7506 over the FT1 but it is a bit too bright for my liking so ended up replacing the 7506 with its updated MDR M1 and absolutely loved it.",
+        "sentiment": 0.9348
+      },
+      {
+        "name": "t1_n2d25ft",
+        "subreddit": "headphones",
+        "sentence": "The midrange and treble are okay, but honestly pretty good for a closed back headphone.",
+        "sentiment": 0.9274
+      },
+      {
+        "name": "t1_n2u009u",
+        "subreddit": "headphones",
+        "sentence": "It's just that since I understood with the FT1 Pro that I needed relaxed treble to feel comfortable and totally enjoy my music, I tried looking for some higher end headphones that also had relaxed treble and possibly just a little bit more bass.",
+        "sentiment": 0.9216
+      },
+      {
+        "name": "t1_mzkiiiz",
+        "subreddit": "headphones",
+        "sentence": "The bass and warmth does drop a bit and the upper treble gets boosted, but with a bit of eq it sounds great, the soundstage is also improved, making the headphones sound less narrow.",
+        "sentiment": 0.9186
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t1_n76y2j2",
+        "subreddit": "headphones",
+        "sentence": "I'm not too sensitive to treble peak, but in 770 Pro X it was painfully harsh.",
+        "sentiment": -0.8573
+      },
+      {
+        "name": "t3_1lfivoi",
+        "subreddit": "headphones",
+        "sentence": "Now I'm thinking that I have a treble sensitivity AND a sound pressure sensitivity - but why then would the Arya hurt?",
+        "sentiment": -0.7351
+      },
+      {
+        "name": "t1_n3ejnuy",
+        "subreddit": "headphones",
+        "sentence": "are you trying to kill op with treble?",
+        "sentiment": -0.6908
+      },
+      {
+        "name": "t1_mz57y88",
+        "subreddit": "headphones",
+        "sentence": "They're killing it when it comes to value, the only thing they kinda suck at is software and design, and even then the software is usable, just not polished.",
+        "sentiment": -0.6815
+      },
+      {
+        "name": "t1_mz5dfiu",
+        "subreddit": "headphones",
+        "sentence": ">They're killing it when it comes to value, the only thing they kinda suck at is software and design, and even then the software is usable, just not polished.",
+        "sentiment": -0.6815
+      }
+    ]
+  },
+  "comfort": {
+    "mentions": 286,
+    "avg_sentiment": 0.20101363636363623,
+    "top_positive_quotes": [
+      {
+        "name": "t1_n5hdpmw",
+        "subreddit": "headphones",
+        "sentence": "* For a bit more money the AUNE SR7000 are not as punchy as the Meze 99 or the FT1 are, more similar to the HD620 mid-forward and mid-bass, but they are a banger in comfort too and super premium built, and happen to be very good for games for extra clarity.",
+        "sentiment": 0.9548
+      },
+      {
+        "name": "t1_myems6h",
+        "subreddit": "headphones",
+        "sentence": "Good iem cables these days are plentiful and dirt cheap with all sorts of tips and adapters to fit any dac/amp you could ever want while headphone cables are still a little bit behind, BUT iems tend to be very sensitive and easy to run out of anything, even ft1s have a sensitivity of 113dB/Vrms compared to something like 122dB/Vrms on good old moondrop starfields.",
+        "sentiment": 0.9259
+      },
+      {
+        "name": "t3_1lwk9y9",
+        "subreddit": "headphones",
+        "sentence": "I have the Meze 109 pros which I love, so I thought the 99s might be good, but i don't think they'd go great comfort wise for travelling - the floating band can be a pain.",
+        "sentiment": 0.9209
+      },
+      {
+        "name": "t3_1l8g5qk",
+        "subreddit": "headphones",
+        "sentence": "The Sennys calling card isn't something that is likely to be easily analyzed in just a quick listening session, so I give it a bit of a pass, but I do think the comfort and build is largely where it's advantages lie over something like Hifiman, rather than on sound quality.",
+        "sentiment": 0.8873
+      },
+      {
+        "name": "t1_n0n4gi7",
+        "subreddit": "headphones",
+        "sentence": "I'm still debating if going with better dac/amp or maybe choose something easier to drive as FT1 Pro (also looks like built better).",
+        "sentiment": 0.8779
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t1_n5ihk47",
+        "subreddit": "headphones",
+        "sentence": "I still didn't know what a headphone amp was, but I thought it seemed unfair that I had a surplus of power when listening in my living room, but was still so starved when I slipped on my headphones, so I went to radio shack and purchased a Speaker A/B switcher and a 1/4 inch TRS headphone jack to remedy that.",
+        "sentiment": -0.9113
+      },
+      {
+        "name": "t3_1l4n8iy",
+        "subreddit": "headphones",
+        "sentence": "**The headband strap is a bit short**, so there's a bit less contact area on top, thus worse weight distribution, and as already mentioned, because it's so short, and because the slider mechanism is so bad, putting headphones on the head sometimes results in the headband setting changing on its own.",
+        "sentiment": -0.7777
+      },
+      {
+        "name": "t3_1lfivoi",
+        "subreddit": "headphones",
+        "sentence": "I need to upgrade my SHP9500, but I can't stand clamp - The AT R70x I didn't give a chance to check for pain as they sounded such a small upgrade over the Phillips.",
+        "sentiment": -0.7622
+      },
+      {
+        "name": "t1_n2woluw",
+        "subreddit": "headphones",
+        "sentence": "People also complain about the headband starting to hurt your head after a while.",
+        "sentiment": -0.7096
+      },
+      {
+        "name": "t3_1lfivoi",
+        "subreddit": "headphones",
+        "sentence": "Tried Sennheiser HD600/6XX but the clamp force was horrific so never really gave them a chance.",
+        "sentiment": -0.6808
+      }
+    ]
+  },
+  "mids": {
+    "mentions": 104,
+    "avg_sentiment": 0.2808548076923078,
+    "top_positive_quotes": [
+      {
+        "name": "t3_1lkmzml",
+        "subreddit": "headphones",
+        "sentence": "I can't compare to stock but they are lovely and warm, with a beautiful timbre on the midrange, especially for male vocals.",
+        "sentiment": 0.9313
+      },
+      {
+        "name": "t1_n2d25ft",
+        "subreddit": "headphones",
+        "sentence": "The midrange and treble are okay, but honestly pretty good for a closed back headphone.",
+        "sentiment": 0.9274
+      },
+      {
+        "name": "t1_n7h70kd",
+        "subreddit": "headphones",
+        "sentence": "For my music library, mostly rock, I absolutely love the warm and lush vocals and the pretty good bass of the Ft1s thus why I prefer it over the 7506.",
+        "sentiment": 0.9145
+      },
+      {
+        "name": "t1_n2h7qx9",
+        "subreddit": "headphones",
+        "sentence": "Expect a light to moderate bass boost with the FT1 that only slightly warms the midrange, a flat midrange, slightly relaxed upper midrange (in a way like the HE400SE), and a slightly elevated treble that has a really good air.",
+        "sentiment": 0.9023
+      },
+      {
+        "name": "t1_mvjhlu7",
+        "subreddit": "headphones",
+        "sentence": "Harmonicdyne x Z Reviews Eris (this one surprised me by how much I liked it, the mids are just barely too recessed, and the bass is just barely too boomy, but it's all clean and snappy with good details, no treble issues, and good imaging)",
+        "sentiment": 0.8957
+      }
+    ],
+    "top_negative_quotes": [
+      {
+        "name": "t3_1l8g5qk",
+        "subreddit": "headphones",
+        "sentence": "It's rumbly, but the mids and highs feel absolutely drowned in the bass.",
+        "sentiment": -0.7776
+      },
+      {
+        "name": "t1_n12zer9",
+        "subreddit": "headphones",
+        "sentence": "HiFiMAN Audivina: the exact opposite problem: all the highs, not a lot of mids and no bass at all.",
+        "sentiment": -0.5994
+      },
+      {
+        "name": "t1_n1qszhe",
+        "subreddit": "headphones",
+        "sentence": "Which I dislike without EQ due to the upper midrange dip, and lack of air frequencies.",
+        "sentiment": -0.5994
+      },
+      {
+        "name": "t1_mwjiya2",
+        "subreddit": "headphones",
+        "sentence": "Just that I did like the general sound of the FT1 Pro when I had them but couldn't live with the very weak vocals.",
+        "sentiment": -0.5483
+      },
+      {
+        "name": "t1_mvwgxih",
+        "subreddit": "headphones",
+        "sentence": "From my brief experience, the FT1 pro had a bit more weight to the bass, but I felt something was slightly \"hollow\" in the lower midrange.",
+        "sentiment": -0.4215
+      }
+    ]
+  }
+}

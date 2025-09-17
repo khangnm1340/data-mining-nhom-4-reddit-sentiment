@@ -1,0 +1,712 @@
+{"name": "t3_1l65bwf", "subreddit": "BudgetAudiophile", "cluster": 2, "aspects": {"build": {"mentions": 8, "avg_sentiment": 0.45247499999999996}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.6913}, "power/amp": {"mentions": 1, "avg_sentiment": 0.7402}, "bass": {"mentions": 1, "avg_sentiment": 0.7402}}}
+{"name": "t3_1lsz1l4", "subreddit": "BudgetAudiophile", "cluster": 2, "aspects": {"power/amp": {"mentions": 5, "avg_sentiment": 0.11428}, "build": {"mentions": 2, "avg_sentiment": 0.19435}}}
+{"name": "t3_1ltxi3j", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"build": {"mentions": 6, "avg_sentiment": 0.2462}, "treble": {"mentions": 1, "avg_sentiment": 0.5093}}}
+{"name": "t3_1lv4mgb", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.460875}, "bass": {"mentions": 2, "avg_sentiment": 0.20095}}}
+{"name": "t3_1m2t514", "subreddit": "BudgetAudiophile", "cluster": 0, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 2, "avg_sentiment": 0.2982}, "treble": {"mentions": 1, "avg_sentiment": 0.7845}, "mids": {"mentions": 2, "avg_sentiment": 0.51725}, "build": {"mentions": 2, "avg_sentiment": 0.125}}}
+{"name": "t3_1mdgmjh", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.1244}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1mhkwzf", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"build": {"mentions": 5, "avg_sentiment": -0.136}}}
+{"name": "t3_1m9gz1z", "subreddit": "GamingLaptops", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.3744}}}
+{"name": "t3_1ley6wn", "subreddit": "Monitors", "cluster": 1, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.31845}, "build": {"mentions": 2, "avg_sentiment": 0.5386500000000001}}}
+{"name": "t3_1lpw6aw", "subreddit": "Monitors", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": -0.3612}, "build": {"mentions": 2, "avg_sentiment": -0.522}}}
+{"name": "t3_1lx5y1c", "subreddit": "Monitors", "cluster": 1, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.3021}, "build": {"mentions": 2, "avg_sentiment": 0.27245}}}
+{"name": "t3_1l7b2ig", "subreddit": "PcBuild", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1lpwi0l", "subreddit": "PcBuild", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": -0.3612}, "build": {"mentions": 2, "avg_sentiment": -0.522}}}
+{"name": "t3_1ls6c5k", "subreddit": "PcBuild", "cluster": 1, "aspects": {"build": {"mentions": 6, "avg_sentiment": 0.11111666666666668}, "power/amp": {"mentions": 5, "avg_sentiment": 0.30489999999999995}}}
+{"name": "t3_1lvdu45", "subreddit": "PcBuild", "cluster": 3, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.43245}, "power/amp": {"mentions": 3, "avg_sentiment": 0.22466666666666665}}}
+{"name": "t3_1lw02be", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t3_1mdkudj", "subreddit": "PcBuild", "cluster": 3, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.0}, "power/amp": {"mentions": 2, "avg_sentiment": -0.15225}}}
+{"name": "t3_1l0gr0r", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 3, "avg_sentiment": 0.3572666666666667}, "build": {"mentions": 14, "avg_sentiment": 0.27287857142857147}, "mids": {"mentions": 3, "avg_sentiment": 0.3569333333333333}, "treble": {"mentions": 3, "avg_sentiment": 0.42593333333333333}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": -0.128}}}
+{"name": "t3_1l1v0kq", "subreddit": "headphones", "cluster": 5, "aspects": {"mids": {"mentions": 1, "avg_sentiment": 0.0772}, "bass": {"mentions": 1, "avg_sentiment": 0.8176}}}
+{"name": "t3_1l2hsa9", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.5096}, "build": {"mentions": 6, "avg_sentiment": 0.10256666666666665}, "power/amp": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t3_1l2zy2v", "subreddit": "headphones", "cluster": 0, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1l3ui8o", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6956}, "build": {"mentions": 2, "avg_sentiment": 0.75385}}}
+{"name": "t3_1l4n8iy", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 35, "avg_sentiment": 0.08883714285714286}, "comfort": {"mentions": 19, "avg_sentiment": 0.07329473684210526}, "treble": {"mentions": 9, "avg_sentiment": 0.202}, "soundstage/imaging": {"mentions": 7, "avg_sentiment": -0.1329857142857143}, "mids": {"mentions": 2, "avg_sentiment": 0.1577}, "bass": {"mentions": 2, "avg_sentiment": 0.2614}}}
+{"name": "t3_1l5qjn3", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 8, "avg_sentiment": 0.24656250000000002}, "power/amp": {"mentions": 1, "avg_sentiment": 0.5106}, "bass": {"mentions": 1, "avg_sentiment": -0.2732}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6054}}}
+{"name": "t3_1l6xuok", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.0}, "comfort": {"mentions": 3, "avg_sentiment": 0.10896666666666667}}}
+{"name": "t3_1l7d9qa", "subreddit": "headphones", "cluster": 4, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.5994}, "power/amp": {"mentions": 1, "avg_sentiment": 0.5994}, "build": {"mentions": 1, "avg_sentiment": 0.5994}}}
+{"name": "t3_1l8g5qk", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 32, "avg_sentiment": 0.233984375}, "power/amp": {"mentions": 4, "avg_sentiment": 0.4201500000000001}, "treble": {"mentions": 5, "avg_sentiment": 0.64818}, "bass": {"mentions": 15, "avg_sentiment": 0.15846666666666664}, "mids": {"mentions": 3, "avg_sentiment": -0.04703333333333334}, "soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.455075}, "comfort": {"mentions": 1, "avg_sentiment": 0.8873}}}
+{"name": "t3_1l9dyh8", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.1036}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.3491}}}
+{"name": "t3_1lbtdve", "subreddit": "headphones", "cluster": 4, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1lc5z3k", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 4, "avg_sentiment": 0.19044999999999998}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4404}, "bass": {"mentions": 3, "avg_sentiment": 0.0}, "build": {"mentions": 2, "avg_sentiment": 0.14555}, "mids": {"mentions": 1, "avg_sentiment": 0.6124}}}
+{"name": "t3_1lc7lh3", "subreddit": "headphones", "cluster": 1, "aspects": {"mids": {"mentions": 3, "avg_sentiment": 0.15153333333333333}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.25}}}
+{"name": "t3_1lcgn50", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7579}}}
+{"name": "t3_1ld62ec", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1ld6rz1", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.0693}, "power/amp": {"mentions": 4, "avg_sentiment": 0.34235000000000004}, "soundstage/imaging": {"mentions": 6, "avg_sentiment": 0.6085666666666666}, "comfort": {"mentions": 2, "avg_sentiment": 0.62465}, "build": {"mentions": 8, "avg_sentiment": 0.3746125}, "bass": {"mentions": 1, "avg_sentiment": 0.9041}}}
+{"name": "t3_1le7nkh", "subreddit": "headphones", "cluster": 4, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1levq20", "subreddit": "headphones", "cluster": 4, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1lf6k1z", "subreddit": "headphones", "cluster": 4, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.1779}}}
+{"name": "t3_1lfivoi", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 4, "avg_sentiment": -0.24655000000000002}, "treble": {"mentions": 3, "avg_sentiment": -0.21813333333333332}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.12119999999999997}}}
+{"name": "t3_1lfk66c", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 20, "avg_sentiment": 0.37326499999999996}, "build": {"mentions": 19, "avg_sentiment": 0.3950315789473684}, "comfort": {"mentions": 1, "avg_sentiment": 0.6887}, "power/amp": {"mentions": 2, "avg_sentiment": 0.3454}, "bass": {"mentions": 10, "avg_sentiment": 0.53965}, "mids": {"mentions": 6, "avg_sentiment": 0.36555}, "treble": {"mentions": 4, "avg_sentiment": 0.47955000000000003}}}
+{"name": "t3_1lgdcy3", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 7, "avg_sentiment": -0.002185714285714283}, "comfort": {"mentions": 1, "avg_sentiment": 0.8313}}}
+{"name": "t3_1lgw1cx", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 4, "avg_sentiment": -0.011800000000000005}}}
+{"name": "t3_1lhnrow", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 16, "avg_sentiment": 0.07465}, "bass": {"mentions": 10, "avg_sentiment": 0.174}, "mids": {"mentions": 7, "avg_sentiment": 0.26292857142857146}, "soundstage/imaging": {"mentions": 5, "avg_sentiment": 0.50676}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1li9yn4", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": -0.11905}, "treble": {"mentions": 3, "avg_sentiment": 0.38386666666666663}, "comfort": {"mentions": 1, "avg_sentiment": 0.5563}}}
+{"name": "t3_1liwood", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": -0.030149999999999982}, "power/amp": {"mentions": 3, "avg_sentiment": -0.02009999999999999}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": -0.025466666666666665}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1ljkbgn", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 7, "avg_sentiment": -0.01968571428571429}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.072}, "bass": {"mentions": 2, "avg_sentiment": 0.35545000000000004}, "build": {"mentions": 1, "avg_sentiment": 0.3008}, "treble": {"mentions": 1, "avg_sentiment": 0.3182}}}
+{"name": "t3_1lk5er4", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8225}}}
+{"name": "t3_1lki0nn", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.1593}, "treble": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t3_1lkmzml", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 14, "avg_sentiment": 0.38648571428571427}, "mids": {"mentions": 4, "avg_sentiment": 0.65905}, "bass": {"mentions": 4, "avg_sentiment": 0.200325}, "comfort": {"mentions": 5, "avg_sentiment": 0.23666}, "soundstage/imaging": {"mentions": 8, "avg_sentiment": 0.547675}, "build": {"mentions": 4, "avg_sentiment": 0.14515}, "treble": {"mentions": 2, "avg_sentiment": -0.13475}}}
+{"name": "t3_1lkrucl", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.82245}, "build": {"mentions": 2, "avg_sentiment": 0.82245}, "power/amp": {"mentions": 1, "avg_sentiment": -0.1027}, "comfort": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t3_1llgkh6", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.5423}, "soundstage/imaging": {"mentions": 5, "avg_sentiment": 0.48346}, "bass": {"mentions": 1, "avg_sentiment": 0.7372}, "build": {"mentions": 3, "avg_sentiment": 0.42716666666666664}}}
+{"name": "t3_1llogc7", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 3, "avg_sentiment": -0.15466666666666667}, "comfort": {"mentions": 1, "avg_sentiment": 0.3182}, "power/amp": {"mentions": 1, "avg_sentiment": 0.3182}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1lmhi3v", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lmimvw", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.36195}, "build": {"mentions": 1, "avg_sentiment": 0.7497}, "power/amp": {"mentions": 1, "avg_sentiment": 0.7497}, "treble": {"mentions": 1, "avg_sentiment": 0.7497}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7497}}}
+{"name": "t3_1lmthce", "subreddit": "headphones", "cluster": 4, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1low51n", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.55905}}}
+{"name": "t3_1lp5pon", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.0}, "power/amp": {"mentions": 7, "avg_sentiment": 0.025771428571428574}, "build": {"mentions": 3, "avg_sentiment": 0.06013333333333334}}}
+{"name": "t3_1lqqm5r", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lqx3q0", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5106}}}
+{"name": "t3_1lrcsnj", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t3_1lrrq4b", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lsdjmz", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t3_1lt6att", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.4201}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.30419999999999997}, "build": {"mentions": 2, "avg_sentiment": 0.14075}}}
+{"name": "t3_1ltbsg8", "subreddit": "headphones", "cluster": 4, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1ltc3xc", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1ltc56j", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1ltiewf", "subreddit": "headphones", "cluster": 5, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 2, "avg_sentiment": -0.17}}}
+{"name": "t3_1lugcu0", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 6, "avg_sentiment": 0.24234999999999998}, "build": {"mentions": 4, "avg_sentiment": 0.49549999999999994}, "power/amp": {"mentions": 1, "avg_sentiment": -0.2755}, "mids": {"mentions": 2, "avg_sentiment": 0.411}, "bass": {"mentions": 1, "avg_sentiment": 0.4201}}}
+{"name": "t3_1luqyfc", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lv46u9", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t3_1lwcoeq", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4404}, "build": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t3_1lwk9y9", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.1806}, "comfort": {"mentions": 2, "avg_sentiment": 0.8751}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8293}, "build": {"mentions": 1, "avg_sentiment": 0.8293}}}
+{"name": "t3_1lx5o0v", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6249}}}
+{"name": "t3_1lxca4g", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lxcm1f", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lxdg8r", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1ly1f5c", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lyxz7z", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lyy6ou", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lyz3gx", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1lzw8g5", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 29, "avg_sentiment": -0.013437931034482757}, "treble": {"mentions": 1, "avg_sentiment": 0.5106}, "bass": {"mentions": 3, "avg_sentiment": 0.2679333333333333}, "power/amp": {"mentions": 1, "avg_sentiment": -0.2732}}}
+{"name": "t3_1m0m0qf", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1m1098h", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1m1t7tv", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t3_1m2ta6k", "subreddit": "headphones", "cluster": 0, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 2, "avg_sentiment": 0.2982}, "treble": {"mentions": 1, "avg_sentiment": 0.7845}, "mids": {"mentions": 2, "avg_sentiment": 0.51725}, "build": {"mentions": 2, "avg_sentiment": 0.125}}}
+{"name": "t3_1m37s53", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1m3ag5b", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.26335}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1m3wejy", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 29, "avg_sentiment": 0.2547448275862069}, "bass": {"mentions": 21, "avg_sentiment": 0.20708095238095234}, "build": {"mentions": 23, "avg_sentiment": 0.21274782608695653}, "treble": {"mentions": 19, "avg_sentiment": 0.30098947368421053}, "comfort": {"mentions": 10, "avg_sentiment": 0.42455999999999994}, "power/amp": {"mentions": 2, "avg_sentiment": 0.3331}}}
+{"name": "t3_1m516a8", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1m5syyb", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1m9livj", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1majkia", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 8, "avg_sentiment": 0.6159999999999999}, "bass": {"mentions": 8, "avg_sentiment": 0.49131250000000004}, "build": {"mentions": 9, "avg_sentiment": 0.07936666666666667}, "comfort": {"mentions": 2, "avg_sentiment": 0.03315000000000001}, "mids": {"mentions": 2, "avg_sentiment": 0.357}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1mdl66k", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1mdo2r5", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.2202}}}
+{"name": "t3_1me82d5", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1mgdrye", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.1054}, "build": {"mentions": 1, "avg_sentiment": 0.1054}}}
+{"name": "t3_1mjdugn", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.443}, "soundstage/imaging": {"mentions": 6, "avg_sentiment": 0.5681}, "build": {"mentions": 8, "avg_sentiment": 0.23125}, "bass": {"mentions": 1, "avg_sentiment": -0.4576}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1mk89y3", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1mk8d9m", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1mk8eqi", "subreddit": "headphones", "cluster": 4, "aspects": {}}
+{"name": "t3_1mk8fou", "subreddit": "headphones", "cluster": 0, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 2, "avg_sentiment": 0.31845}, "treble": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7574}}}
+{"name": "t3_1m5ulfm", "subreddit": "homelab", "cluster": 1, "aspects": {"build": {"mentions": 4, "avg_sentiment": 0.037575000000000025}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1m80zvc", "subreddit": "homelab", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.1901}}}
+{"name": "t3_1m9zfzh", "subreddit": "homelab", "cluster": 1, "aspects": {"build": {"mentions": 5, "avg_sentiment": 0.15045999999999998}}}
+{"name": "t3_1liz6bb", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.22103333333333333}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t3_1lty6uk", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 7, "avg_sentiment": 0.24505714285714286}, "treble": {"mentions": 1, "avg_sentiment": 0.5093}}}
+{"name": "t3_1la97xe", "subreddit": "laptops", "cluster": 1, "aspects": {}}
+{"name": "t3_1mjbkyw", "subreddit": "photography", "cluster": 0, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.5994}}}
+{"name": "t1_mwm694e", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mzniqp9", "subreddit": "BudgetAudiophile", "cluster": 5, "aspects": {"build": {"mentions": 4, "avg_sentiment": 0.1559}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.2202}}}
+{"name": "t1_n0i4sgg", "subreddit": "BudgetAudiophile", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.20589999999999997}, "build": {"mentions": 3, "avg_sentiment": 0.29616666666666663}}}
+{"name": "t1_n1f4xg9", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {}}
+{"name": "t1_n2xi9wu", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n4rdrgk", "subreddit": "BudgetAudiophile", "cluster": 2, "aspects": {"build": {"mentions": 17, "avg_sentiment": 0.23517647058823532}, "soundstage/imaging": {"mentions": 5, "avg_sentiment": 0.47850000000000004}, "power/amp": {"mentions": 7, "avg_sentiment": 0.26524285714285717}, "comfort": {"mentions": 1, "avg_sentiment": 0.7096}, "bass": {"mentions": 1, "avg_sentiment": 0.2263}}}
+{"name": "t1_n6w82hh", "subreddit": "BudgetAudiophile", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n6waooo", "subreddit": "BudgetAudiophile", "cluster": 5, "aspects": {}}
+{"name": "t1_n1d28l8", "subreddit": "GamingLaptops", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.3566666666666667}}}
+{"name": "t1_n6wfn8f", "subreddit": "GamingLaptops", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.3612}, "build": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n39mvhs", "subreddit": "HomeDecorating", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n7bp97u", "subreddit": "HomeDecorating", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mw0o8kb", "subreddit": "Monitors", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.2553}}}
+{"name": "t1_n20hsmn", "subreddit": "Monitors", "cluster": 1, "aspects": {}}
+{"name": "t1_n257rx1", "subreddit": "Monitors", "cluster": 1, "aspects": {}}
+{"name": "t1_n2cmul8", "subreddit": "Monitors", "cluster": 1, "aspects": {}}
+{"name": "t1_n4ufnlk", "subreddit": "Monitors", "cluster": 1, "aspects": {}}
+{"name": "t1_mvs2ciz", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 3, "avg_sentiment": 0.20503333333333332}}}
+{"name": "t1_mwihx3t", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t1_mxel98n", "subreddit": "PcBuild", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.2732}}}
+{"name": "t1_mylpl16", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t1_n00eg1u", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t1_n1fgi6d", "subreddit": "PcBuild", "cluster": 3, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.05295}, "power/amp": {"mentions": 2, "avg_sentiment": 0.1591}}}
+{"name": "t1_n20lx70", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 3, "avg_sentiment": 0.05103333333333334}}}
+{"name": "t1_n2af2k7", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t1_n2s3xx9", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.1655}}}
+{"name": "t1_n3i6vtu", "subreddit": "PcBuild", "cluster": 3, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 2, "avg_sentiment": 0.07655}}}
+{"name": "t1_n3nnl5n", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.37625000000000003}}}
+{"name": "t1_n3uqnuo", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 3, "avg_sentiment": 0.30186666666666667}}}
+{"name": "t1_n3zdol2", "subreddit": "PcBuild", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n4jy499", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t1_n5mt98n", "subreddit": "PcBuild", "cluster": 1, "aspects": {}}
+{"name": "t1_n5v5mri", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.07655}}}
+{"name": "t1_n5y9l6j", "subreddit": "PcBuild", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.28595}, "treble": {"mentions": 1, "avg_sentiment": 0.3182}}}
+{"name": "t1_n6473ve", "subreddit": "PcBuild", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n66s9d2", "subreddit": "PcBuild", "cluster": 3, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.07655}}}
+{"name": "t1_n6q6y41", "subreddit": "PcBuild", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n0iiflb", "subreddit": "SmartThings", "cluster": 1, "aspects": {}}
+{"name": "t1_mvd149e", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.8313}, "bass": {"mentions": 1, "avg_sentiment": 0.8313}, "build": {"mentions": 1, "avg_sentiment": 0.8313}}}
+{"name": "t1_mvdceyn", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.1531}, "build": {"mentions": 2, "avg_sentiment": 0.07655}, "mids": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mvfcmvf", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.128}, "build": {"mentions": 1, "avg_sentiment": -0.128}}}
+{"name": "t1_mvfcyp6", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.3612}}}
+{"name": "t1_mvjhlu7", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 5, "avg_sentiment": -0.05054000000000001}, "build": {"mentions": 3, "avg_sentiment": 0.36893333333333334}, "comfort": {"mentions": 3, "avg_sentiment": 0.5595666666666667}, "soundstage/imaging": {"mentions": 9, "avg_sentiment": 0.5614333333333333}, "bass": {"mentions": 5, "avg_sentiment": 0.68536}, "treble": {"mentions": 5, "avg_sentiment": 0.51484}, "mids": {"mentions": 3, "avg_sentiment": 0.4495}}}
+{"name": "t1_mvkf5sm", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mvpcmkm", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mvr5xkl", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.296}}}
+{"name": "t1_mvr79fj", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.1186}}}
+{"name": "t1_mvr7efb", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mvscjew", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mvsknam", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mvtcsl6", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.2732}, "soundstage/imaging": {"mentions": 6, "avg_sentiment": -0.13099999999999998}, "build": {"mentions": 4, "avg_sentiment": -0.148}}}
+{"name": "t1_mvtkf9n", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 5, "avg_sentiment": 0.003920000000000002}, "comfort": {"mentions": 1, "avg_sentiment": 0.4404}, "power/amp": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_mvtlj3b", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.296}}}
+{"name": "t1_mvtpuhp", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": -0.4588}, "treble": {"mentions": 1, "avg_sentiment": 0.4019}}}
+{"name": "t1_mvu5r63", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.49829999999999997}, "build": {"mentions": 5, "avg_sentiment": 0.3094}, "treble": {"mentions": 6, "avg_sentiment": 0.45174999999999993}, "mids": {"mentions": 4, "avg_sentiment": 0.44362500000000005}, "bass": {"mentions": 5, "avg_sentiment": 0.33934000000000003}}}
+{"name": "t1_mvu665j", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mvu7xqy", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.0653}, "power/amp": {"mentions": 1, "avg_sentiment": -0.0653}, "build": {"mentions": 1, "avg_sentiment": -0.0653}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.2755}}}
+{"name": "t1_mvufq0w", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.1189}}}
+{"name": "t1_mvuv3op", "subreddit": "headphones", "cluster": 1, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.88}}}
+{"name": "t1_mvv0srz", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.2382}, "bass": {"mentions": 1, "avg_sentiment": 0.2382}, "build": {"mentions": 1, "avg_sentiment": 0.765}}}
+{"name": "t1_mvvbx14", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mvvqqr6", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0846}}}
+{"name": "t1_mvwctxu", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.6369}, "build": {"mentions": 3, "avg_sentiment": 0.25920000000000004}, "treble": {"mentions": 1, "avg_sentiment": 0.0635}, "bass": {"mentions": 1, "avg_sentiment": 0.0635}}}
+{"name": "t1_mvwgka2", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mvwgxih", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.4215}, "mids": {"mentions": 2, "avg_sentiment": -0.21075}, "bass": {"mentions": 2, "avg_sentiment": -0.21075}, "build": {"mentions": 2, "avg_sentiment": 0.012}}}
+{"name": "t1_mvx0ypp", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3612}, "build": {"mentions": 4, "avg_sentiment": -0.287775}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mvx14mp", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.3504333333333333}, "treble": {"mentions": 1, "avg_sentiment": 0.7506}}}
+{"name": "t1_mvxae61", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.08895}}}
+{"name": "t1_mvydij2", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mvyqy8m", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mvztibd", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mw2a2ku", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.9001}, "build": {"mentions": 1, "avg_sentiment": 0.9001}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7783}}}
+{"name": "t1_mw2c82u", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.4141333333333333}, "comfort": {"mentions": 3, "avg_sentiment": 0.5787666666666667}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.6212}}}
+{"name": "t1_mw3htx1", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.34}}}
+{"name": "t1_mw6czd4", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.296}, "build": {"mentions": 1, "avg_sentiment": 0.296}}}
+{"name": "t1_mw88vcq", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.07565}, "mids": {"mentions": 1, "avg_sentiment": 0.4019}, "bass": {"mentions": 1, "avg_sentiment": 0.4019}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.125}}}
+{"name": "t1_mw8cj8y", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.34}}}
+{"name": "t1_mw8soxj", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.317}, "build": {"mentions": 3, "avg_sentiment": 0.317}, "treble": {"mentions": 1, "avg_sentiment": 0.6249}}}
+{"name": "t1_mw8zths", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mw99z1t", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.0772}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.575}, "build": {"mentions": 2, "avg_sentiment": 0.07945}, "bass": {"mentions": 1, "avg_sentiment": 0.7587}}}
+{"name": "t1_mw9ik2v", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mw9pgao", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mw9pttd", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mw9q3qi", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.886}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6908}}}
+{"name": "t1_mwa13w1", "subreddit": "headphones", "cluster": 1, "aspects": {"mids": {"mentions": 1, "avg_sentiment": 0.34}}}
+{"name": "t1_mwa87qc", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mwabaw0", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3612}, "build": {"mentions": 1, "avg_sentiment": 0.3612}, "bass": {"mentions": 1, "avg_sentiment": 0.7358}}}
+{"name": "t1_mwac1yu", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mwc36ws", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3818}}}
+{"name": "t1_mwc5txr", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.5325}, "build": {"mentions": 2, "avg_sentiment": 0.2984}}}
+{"name": "t1_mwcp825", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": -0.39935}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": -0.21463333333333331}, "build": {"mentions": 2, "avg_sentiment": -0.39935}, "comfort": {"mentions": 2, "avg_sentiment": -0.5603}, "bass": {"mentions": 1, "avg_sentiment": 0.1548}}}
+{"name": "t1_mwcuo1y", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.38605}, "power/amp": {"mentions": 2, "avg_sentiment": 0.38605}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.38605}, "build": {"mentions": 2, "avg_sentiment": 0.38605}}}
+{"name": "t1_mwcxklk", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.11315}, "power/amp": {"mentions": 3, "avg_sentiment": 0.07543333333333334}, "build": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_mwcyize", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.6858}, "power/amp": {"mentions": 1, "avg_sentiment": 0.6858}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mwd4l8h", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mwd5bcr", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.556}, "power/amp": {"mentions": 3, "avg_sentiment": -0.07226666666666666}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": -0.07226666666666666}, "build": {"mentions": 2, "avg_sentiment": -0.3286}}}
+{"name": "t1_mwdao37", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mwdc6e2", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.7717}}}
+{"name": "t1_mwdebnp", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": 0.3687}}}
+{"name": "t1_mwdr559", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.29615}}}
+{"name": "t1_mwdryyk", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mwduo8z", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mwf7to6", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mwhgvu6", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.5493}, "bass": {"mentions": 1, "avg_sentiment": 0.4404}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4256}}}
+{"name": "t1_mwhi9zl", "subreddit": "headphones", "cluster": 1, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.4939}}}
+{"name": "t1_mwhlhs6", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.7506}, "comfort": {"mentions": 1, "avg_sentiment": 0.7717}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.7339500000000001}}}
+{"name": "t1_mwjiya2", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.5483}, "mids": {"mentions": 1, "avg_sentiment": -0.5483}}}
+{"name": "t1_mwmajkt", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5719}}}
+{"name": "t1_mwofpji", "subreddit": "headphones", "cluster": 0, "aspects": {"bass": {"mentions": 1, "avg_sentiment": -0.0972}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mwpesev", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.34}, "power/amp": {"mentions": 1, "avg_sentiment": 0.5267}, "build": {"mentions": 2, "avg_sentiment": 0.8135}}}
+{"name": "t1_mwq46tk", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.50615}}}
+{"name": "t1_mwshawo", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mwsv8fb", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.631}, "build": {"mentions": 2, "avg_sentiment": -0.3155}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mwtifq3", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": -0.028566666666666667}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.04285}, "power/amp": {"mentions": 1, "avg_sentiment": -0.0857}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mwtyrm7", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.7783}}}
+{"name": "t1_mwxbx2w", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_mwz26zw", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mwzabr4", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mx02950", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 5, "avg_sentiment": 0.36290000000000006}, "bass": {"mentions": 2, "avg_sentiment": 0.79495}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.7061000000000001}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 3, "avg_sentiment": 0.40280000000000005}}}
+{"name": "t1_mx0dobn", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mx0mfmt", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.25}}}
+{"name": "t1_mx0mhdk", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.25}}}
+{"name": "t1_mx0v4vy", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mx4s0ti", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_mx5en76", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.6239}}}
+{"name": "t1_mx5stty", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mxbp9i2", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": 0.5267}}}
+{"name": "t1_mxgf85r", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.5984}, "build": {"mentions": 1, "avg_sentiment": -0.5984}}}
+{"name": "t1_mxgq05k", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.4436}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.35364999999999996}, "power/amp": {"mentions": 1, "avg_sentiment": 0.7845}}}
+{"name": "t1_mxhwx2c", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.07106666666666665}, "soundstage/imaging": {"mentions": 6, "avg_sentiment": 0.5199333333333334}, "comfort": {"mentions": 2, "avg_sentiment": 0.11159999999999998}, "power/amp": {"mentions": 2, "avg_sentiment": 0.15589999999999998}, "treble": {"mentions": 2, "avg_sentiment": 0.7251}}}
+{"name": "t1_mxi7n2d", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5095}}}
+{"name": "t1_mxmo3or", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.4695}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.4695}, "build": {"mentions": 1, "avg_sentiment": -0.4695}}}
+{"name": "t1_mxpo87y", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.25}}}
+{"name": "t1_mxyem3s", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_mxzqsju", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_my0b04m", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7579}}}
+{"name": "t1_my0buoe", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7579}}}
+{"name": "t1_my0d1a6", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_my3m88l", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_my6bos4", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.364}, "treble": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_my786zp", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 3, "avg_sentiment": 0.6610666666666667}, "build": {"mentions": 2, "avg_sentiment": 0.45625}, "comfort": {"mentions": 1, "avg_sentiment": 0.8481}}}
+{"name": "t1_my7j4e5", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_my7jn4e", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.3658}, "bass": {"mentions": 1, "avg_sentiment": 0.5859}, "mids": {"mentions": 1, "avg_sentiment": -0.128}, "treble": {"mentions": 1, "avg_sentiment": 0.8402}, "build": {"mentions": 2, "avg_sentiment": -0.05135}, "comfort": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_my7oa7b", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_my84ve4", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.5267}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5267}}}
+{"name": "t1_my8dbzk", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.532}, "bass": {"mentions": 2, "avg_sentiment": 0.08415}, "build": {"mentions": 2, "avg_sentiment": 0.08415}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7003}}}
+{"name": "t1_my8fb5v", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_my8kkvg", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.4823}, "bass": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 4, "avg_sentiment": 0.66015}}}
+{"name": "t1_my90u0q", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4404}, "treble": {"mentions": 1, "avg_sentiment": 0.2144}, "bass": {"mentions": 1, "avg_sentiment": 0.2144}, "comfort": {"mentions": 1, "avg_sentiment": 0.7906}}}
+{"name": "t1_my95eip", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 6, "avg_sentiment": 0.37815}, "treble": {"mentions": 1, "avg_sentiment": 0.7717}, "power/amp": {"mentions": 2, "avg_sentiment": 0.48030000000000006}}}
+{"name": "t1_my9gjyx", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.6369}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_my9j0jg", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_myajin2", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.0}, "build": {"mentions": 4, "avg_sentiment": 0.22965000000000002}}}
+{"name": "t1_myc3rri", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.4939}}}
+{"name": "t1_mychunp", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.7369}, "treble": {"mentions": 1, "avg_sentiment": 0.5159}}}
+{"name": "t1_mycrpem", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_mye8qu8", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_myems6h", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.55545}, "comfort": {"mentions": 2, "avg_sentiment": 0.6831499999999999}, "power/amp": {"mentions": 1, "avg_sentiment": 0.9259}, "treble": {"mentions": 1, "avg_sentiment": -0.6808}}}
+{"name": "t1_myes7vv", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_myg19hj", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_myg3m66", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4576}, "build": {"mentions": 1, "avg_sentiment": 0.4576}}}
+{"name": "t1_mygzu97", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_myiuqyg", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_myivqga", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_myiwmv5", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.39135}, "treble": {"mentions": 1, "avg_sentiment": 0.7003}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7003}, "bass": {"mentions": 2, "avg_sentiment": 0.6990000000000001}, "comfort": {"mentions": 2, "avg_sentiment": 0.34885}, "build": {"mentions": 1, "avg_sentiment": 0.6977}}}
+{"name": "t1_myix1yn", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_myjkln0", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5705}}}
+{"name": "t1_myosc43", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5267}}}
+{"name": "t1_myotlty", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.2354}, "build": {"mentions": 2, "avg_sentiment": 0.07385}}}
+{"name": "t1_myoujjt", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_myp2a0q", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 3, "avg_sentiment": 0.15886666666666668}, "bass": {"mentions": 3, "avg_sentiment": 0.2099}, "build": {"mentions": 3, "avg_sentiment": 0.1528333333333333}, "power/amp": {"mentions": 2, "avg_sentiment": 0.1366}, "mids": {"mentions": 1, "avg_sentiment": 0.6297}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mypfgez", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.6666}, "build": {"mentions": 1, "avg_sentiment": 0.5023}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_myr12jj", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 4, "avg_sentiment": 0.4238}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.1806}, "mids": {"mentions": 1, "avg_sentiment": 0.6851}, "bass": {"mentions": 1, "avg_sentiment": 0.6851}, "build": {"mentions": 2, "avg_sentiment": 0.10405}}}
+{"name": "t1_myr5o6j", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.08274999999999996}, "comfort": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_myrgaxs", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.0516}, "build": {"mentions": 1, "avg_sentiment": -0.0516}}}
+{"name": "t1_myuhlpl", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_myumana", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7857}, "bass": {"mentions": 1, "avg_sentiment": 0.7857}}}
+{"name": "t1_myvq406", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_myvri5s", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_myvruy8", "subreddit": "headphones", "cluster": 1, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8201}}}
+{"name": "t1_myw4krk", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 5, "avg_sentiment": 0.14594000000000001}, "power/amp": {"mentions": 2, "avg_sentiment": 0.50065}, "bass": {"mentions": 2, "avg_sentiment": -0.10115}}}
+{"name": "t1_mywfqzf", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4927}, "build": {"mentions": 1, "avg_sentiment": 0.4927}}}
+{"name": "t1_myyk996", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_myyzvlm", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": -0.1642}, "power/amp": {"mentions": 2, "avg_sentiment": 0.23075}}}
+{"name": "t1_mz0roal", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.0}, "build": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_mz18w9e", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4588}}}
+{"name": "t1_mz19hxx", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.28145}, "build": {"mentions": 3, "avg_sentiment": 0.03416666666666668}}}
+{"name": "t1_mz45qgt", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.6597}}}
+{"name": "t1_mz4gx0r", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.71865}}}
+{"name": "t1_mz4yybe", "subreddit": "headphones", "cluster": 5, "aspects": {"bass": {"mentions": 2, "avg_sentiment": -0.053700000000000025}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mz5430p", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 6, "avg_sentiment": 0.17988333333333337}, "soundstage/imaging": {"mentions": 8, "avg_sentiment": 0.21278750000000005}, "build": {"mentions": 4, "avg_sentiment": 0.372625}, "mids": {"mentions": 3, "avg_sentiment": 0.2708333333333333}, "bass": {"mentions": 4, "avg_sentiment": 0.134825}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mz57y88", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.31845}, "build": {"mentions": 2, "avg_sentiment": -0.022299999999999986}, "power/amp": {"mentions": 4, "avg_sentiment": 0.146475}, "treble": {"mentions": 1, "avg_sentiment": -0.6815}}}
+{"name": "t1_mz59io5", "subreddit": "headphones", "cluster": 0, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mz59m50", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mz5dfiu", "subreddit": "headphones", "cluster": 2, "aspects": {"mids": {"mentions": 1, "avg_sentiment": 0.0772}, "power/amp": {"mentions": 4, "avg_sentiment": -0.018475000000000002}, "bass": {"mentions": 1, "avg_sentiment": 0.0772}, "treble": {"mentions": 1, "avg_sentiment": -0.6815}, "build": {"mentions": 2, "avg_sentiment": -0.67955}}}
+{"name": "t1_mz5dv3r", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.5023}, "build": {"mentions": 1, "avg_sentiment": 0.5106}}}
+{"name": "t1_mz5ezm8", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6369}, "bass": {"mentions": 2, "avg_sentiment": 0.31845}, "build": {"mentions": 6, "avg_sentiment": 0.12931666666666666}, "mids": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_mz5hafb", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mz5j2wg", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mz5jkyj", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mz5op67", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.296}}}
+{"name": "t1_mz5ri2o", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.2144}, "treble": {"mentions": 1, "avg_sentiment": -0.296}}}
+{"name": "t1_mz6obca", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mz7a00e", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.09374999999999999}}}
+{"name": "t1_mz7n29g", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mz9w6fe", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mzaihkp", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5563}, "power/amp": {"mentions": 1, "avg_sentiment": -0.0772}}}
+{"name": "t1_mzbkpyk", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mzbml9w", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_mzbynts", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.5106}, "power/amp": {"mentions": 1, "avg_sentiment": -0.5106}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.5106}, "build": {"mentions": 1, "avg_sentiment": -0.5106}}}
+{"name": "t1_mzcwfn5", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.06346666666666667}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.05926666666666667}, "bass": {"mentions": 1, "avg_sentiment": 0.4549}, "mids": {"mentions": 1, "avg_sentiment": 0.3818}, "power/amp": {"mentions": 4, "avg_sentiment": 0.0628}, "comfort": {"mentions": 2, "avg_sentiment": -0.0649}}}
+{"name": "t1_mzdxwki", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5994}}}
+{"name": "t1_mzfafjt", "subreddit": "headphones", "cluster": 0, "aspects": {"bass": {"mentions": 2, "avg_sentiment": 0.2202}}}
+{"name": "t1_mzfqt3s", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.3788}, "build": {"mentions": 1, "avg_sentiment": 0.4902}}}
+{"name": "t1_mzkgeqb", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.6122}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5647}}}
+{"name": "t1_mzkiiiz", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.6249}, "build": {"mentions": 2, "avg_sentiment": 0.7717499999999999}, "treble": {"mentions": 1, "avg_sentiment": 0.9186}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9186}, "bass": {"mentions": 1, "avg_sentiment": 0.9186}}}
+{"name": "t1_mzkjvdn", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.2746}, "treble": {"mentions": 1, "avg_sentiment": -0.2746}, "bass": {"mentions": 1, "avg_sentiment": -0.2746}}}
+{"name": "t1_mzkk20f", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mzkk7to", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.3753}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.3753}}}
+{"name": "t1_mzklfsy", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.3818}}}
+{"name": "t1_mzlls2s", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.14959999999999998}}}
+{"name": "t1_mzm1rok", "subreddit": "headphones", "cluster": 0, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.3007}, "power/amp": {"mentions": 1, "avg_sentiment": -0.3007}}}
+{"name": "t1_mzmmg4v", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.0}, "power/amp": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_mzn47hc", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": 0.4404}, "power/amp": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_mzomwc0", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.3506}, "bass": {"mentions": 1, "avg_sentiment": 0.3506}}}
+{"name": "t1_mzordv6", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.41105}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8221}, "bass": {"mentions": 1, "avg_sentiment": 0.8221}}}
+{"name": "t1_mzp1lvh", "subreddit": "headphones", "cluster": 0, "aspects": {"power/amp": {"mentions": 5, "avg_sentiment": 0.0}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.8748}}}
+{"name": "t1_mzr9tmc", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_mzrtpf1", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.09263333333333335}}}
+{"name": "t1_mzs43ke", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mzt67u5", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.30319999999999997}, "power/amp": {"mentions": 1, "avg_sentiment": 0.7684}, "build": {"mentions": 1, "avg_sentiment": 0.7684}}}
+{"name": "t1_mztreqy", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.4404}, "build": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_mzuptrg", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mzv18ry", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_mzv2m9o", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.3818}}}
+{"name": "t1_mzvwd76", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.714}}}
+{"name": "t1_mzwus1s", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.4215}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.5897}, "power/amp": {"mentions": 1, "avg_sentiment": 0.4215}, "bass": {"mentions": 1, "avg_sentiment": -0.3353}, "build": {"mentions": 3, "avg_sentiment": 0.4357}}}
+{"name": "t1_mzytk81", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n002dgz", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3818}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n012b5j", "subreddit": "headphones", "cluster": 0, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.5106}, "power/amp": {"mentions": 1, "avg_sentiment": 0.5106}, "build": {"mentions": 1, "avg_sentiment": 0.5106}}}
+{"name": "t1_n02llwc", "subreddit": "headphones", "cluster": 5, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.8228}}}
+{"name": "t1_n05ixb0", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n085npm", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.4215}, "build": {"mentions": 1, "avg_sentiment": -0.0258}}}
+{"name": "t1_n09jdy3", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "comfort": {"mentions": 2, "avg_sentiment": 0.1806}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3612}, "treble": {"mentions": 1, "avg_sentiment": -0.2732}, "mids": {"mentions": 1, "avg_sentiment": -0.2732}, "bass": {"mentions": 2, "avg_sentiment": -0.3341}, "power/amp": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_n09o8fd", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n0a4x7u", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n0dlq9a", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.44193333333333334}, "comfort": {"mentions": 1, "avg_sentiment": 0.8095}, "bass": {"mentions": 1, "avg_sentiment": 0.6249}}}
+{"name": "t1_n0ist00", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.3471}, "treble": {"mentions": 1, "avg_sentiment": 0.5106}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4927}}}
+{"name": "t1_n0it44d", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4019}}}
+{"name": "t1_n0iuu1g", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 3, "avg_sentiment": 0.11676666666666667}}}
+{"name": "t1_n0iw9gf", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.34}}}
+{"name": "t1_n0iwxjg", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.2732}}}
+{"name": "t1_n0jhdbn", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n0mx34t", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.17366666666666672}, "treble": {"mentions": 1, "avg_sentiment": 0.2023}}}
+{"name": "t1_n0mziwo", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.4939}}}
+{"name": "t1_n0n4gi7", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9399}, "bass": {"mentions": 2, "avg_sentiment": 0.46995}, "comfort": {"mentions": 1, "avg_sentiment": 0.8779}, "power/amp": {"mentions": 1, "avg_sentiment": 0.8779}, "build": {"mentions": 2, "avg_sentiment": 0.22360000000000002}}}
+{"name": "t1_n0qf3oa", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.57495}, "power/amp": {"mentions": 2, "avg_sentiment": -0.09734999999999999}, "build": {"mentions": 4, "avg_sentiment": -0.20772500000000002}}}
+{"name": "t1_n0r225v", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n0r5jum", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0772}}}
+{"name": "t1_n0rpdwq", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.4944}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7096}}}
+{"name": "t1_n0s5o1d", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 5, "avg_sentiment": 0.03608}, "build": {"mentions": 3, "avg_sentiment": 0.06013333333333334}, "comfort": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_n0uwqeh", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 3, "avg_sentiment": 0.14743333333333333}, "treble": {"mentions": 2, "avg_sentiment": 0.22115}, "mids": {"mentions": 1, "avg_sentiment": -0.0516}, "build": {"mentions": 3, "avg_sentiment": -0.0172}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n0v8jai", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.2409}}}
+{"name": "t1_n0v9f7h", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 2, "avg_sentiment": -0.010450000000000015}, "build": {"mentions": 1, "avg_sentiment": 0.4019}}}
+{"name": "t1_n0vaqk3", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.1904}}}
+{"name": "t1_n0x82vu", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n0yefzk", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.8964}}}
+{"name": "t1_n0zau8h", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 4, "avg_sentiment": 0.42410000000000003}, "treble": {"mentions": 1, "avg_sentiment": 0.4404}, "bass": {"mentions": 2, "avg_sentiment": 0.6710499999999999}}}
+{"name": "t1_n0zknnh", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n0zprpb", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n0zr9sv", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.77185}, "bass": {"mentions": 1, "avg_sentiment": 0.7425}}}
+{"name": "t1_n0zu5xc", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 2, "avg_sentiment": 0.63655}, "treble": {"mentions": 3, "avg_sentiment": 0.23403333333333334}, "mids": {"mentions": 1, "avg_sentiment": 0.0772}}}
+{"name": "t1_n100k36", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n10qtal", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.0772}, "mids": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n11lrhx", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n12zer9", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.5328999999999999}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.18320000000000003}, "bass": {"mentions": 3, "avg_sentiment": 0.0043333333333333375}, "mids": {"mentions": 2, "avg_sentiment": -0.14815000000000003}}}
+{"name": "t1_n14gf3y", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n14ooa3", "subreddit": "headphones", "cluster": 0, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7783}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7783}}}
+{"name": "t1_n14y7fe", "subreddit": "headphones", "cluster": 0, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.2756}, "treble": {"mentions": 1, "avg_sentiment": 0.3612}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3612}, "bass": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n154wfe", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n156j8b", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n157jb1", "subreddit": "headphones", "cluster": 0, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.3455}, "mids": {"mentions": 1, "avg_sentiment": 0.3455}, "bass": {"mentions": 1, "avg_sentiment": 0.6106}, "build": {"mentions": 1, "avg_sentiment": 0.6106}}}
+{"name": "t1_n15b77k", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n15j8bh", "subreddit": "headphones", "cluster": 5, "aspects": {"mids": {"mentions": 2, "avg_sentiment": 0.1806}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.4215}}}
+{"name": "t1_n15s92f", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.296}}}
+{"name": "t1_n16j20x", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3818}, "bass": {"mentions": 1, "avg_sentiment": 0.3818}, "build": {"mentions": 1, "avg_sentiment": 0.3818}}}
+{"name": "t1_n19fc8q", "subreddit": "headphones", "cluster": 0, "aspects": {"treble": {"mentions": 3, "avg_sentiment": 0.45736666666666664}, "mids": {"mentions": 1, "avg_sentiment": 0.6597}, "power/amp": {"mentions": 1, "avg_sentiment": 0.1857}, "build": {"mentions": 1, "avg_sentiment": 0.1857}}}
+{"name": "t1_n19scyc", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1a3fuj", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 2, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1dlui7", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1dv59m", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1dxfxj", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.8074}}}
+{"name": "t1_n1dxwu8", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1e1y6j", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1fqos0", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1fz4xi", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.27830000000000005}, "power/amp": {"mentions": 1, "avg_sentiment": 0.8091}}}
+{"name": "t1_n1gpupy", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1hpjpt", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1j420b", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 3, "avg_sentiment": 0.06049999999999998}, "bass": {"mentions": 1, "avg_sentiment": 0.6597}}}
+{"name": "t1_n1jm84f", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.8316}, "build": {"mentions": 2, "avg_sentiment": 0.66275}}}
+{"name": "t1_n1mvm10", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.3975}, "bass": {"mentions": 1, "avg_sentiment": 0.4939}, "build": {"mentions": 1, "avg_sentiment": 0.4939}}}
+{"name": "t1_n1mwvd5", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1o0ex2", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1od6na", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n1oyowz", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 3, "avg_sentiment": 0.041500000000000016}, "mids": {"mentions": 2, "avg_sentiment": -0.32615}, "build": {"mentions": 2, "avg_sentiment": -0.01185}}}
+{"name": "t1_n1p4p3i", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1p7d1e", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1p7o2d", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1q8f3r", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1qnffk", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.7096}, "power/amp": {"mentions": 1, "avg_sentiment": 0.7096}}}
+{"name": "t1_n1qpj59", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.4019}, "build": {"mentions": 1, "avg_sentiment": 0.4019}}}
+{"name": "t1_n1qr0mz", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 3, "avg_sentiment": -0.09866666666666667}, "build": {"mentions": 1, "avg_sentiment": 0.5267}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.2235}}}
+{"name": "t1_n1qszhe", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 4, "avg_sentiment": 0.38950000000000007}, "mids": {"mentions": 2, "avg_sentiment": -0.2997}, "bass": {"mentions": 2, "avg_sentiment": 0.28495000000000004}}}
+{"name": "t1_n1qy7ae", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1r7lry", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1r9teh", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.868}}}
+{"name": "t1_n1rlgci", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7867}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7867}, "bass": {"mentions": 1, "avg_sentiment": 0.7867}, "build": {"mentions": 1, "avg_sentiment": 0.7867}}}
+{"name": "t1_n1rmdc8", "subreddit": "headphones", "cluster": 5, "aspects": {"mids": {"mentions": 2, "avg_sentiment": 0.1806}, "soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.05142500000000001}, "build": {"mentions": 1, "avg_sentiment": 0.4939}}}
+{"name": "t1_n1rsdst", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.536875}, "build": {"mentions": 3, "avg_sentiment": 0.5146333333333334}}}
+{"name": "t1_n1sjife", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": 0.2144}}}
+{"name": "t1_n1tf1uz", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1tlpa9", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1tupfh", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1u9056", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1v2sfd", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.6249}}}
+{"name": "t1_n1v6ok6", "subreddit": "headphones", "cluster": 5, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_n1v9kbx", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_n1vtn0x", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n1vui0d", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1vwa98", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1wh7y6", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n1xtq54", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 2, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1xw56m", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.5706333333333333}, "power/amp": {"mentions": 3, "avg_sentiment": 0.5706333333333333}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7178}, "treble": {"mentions": 1, "avg_sentiment": 0.5994}, "build": {"mentions": 1, "avg_sentiment": 0.5994}}}
+{"name": "t1_n1ymg9g", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5218}, "build": {"mentions": 2, "avg_sentiment": 0.2609}}}
+{"name": "t1_n1yngqv", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.5574}}}
+{"name": "t1_n1yrjmx", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.05135}}}
+{"name": "t1_n1ysi3k", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n1ywdgy", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.3612}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1yxqul", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.29614999999999997}, "build": {"mentions": 1, "avg_sentiment": 0.09}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5563}, "power/amp": {"mentions": 1, "avg_sentiment": 0.2263}}}
+{"name": "t1_n1zk5m6", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n1zqpdj", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8735}, "bass": {"mentions": 1, "avg_sentiment": 0.8735}}}
+{"name": "t1_n1zs0fw", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.39630000000000004}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n1zwv08", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n205zzd", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.57405}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4478}, "bass": {"mentions": 1, "avg_sentiment": 0.7714}}}
+{"name": "t1_n206zqd", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n207pq2", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.2732}, "mids": {"mentions": 1, "avg_sentiment": 0.8126}, "bass": {"mentions": 1, "avg_sentiment": 0.8126}, "treble": {"mentions": 1, "avg_sentiment": -0.1531}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.1531}}}
+{"name": "t1_n20eee7", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n20gpbh", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 2, "avg_sentiment": 0.77715}, "build": {"mentions": 2, "avg_sentiment": 0.77715}}}
+{"name": "t1_n20kzlo", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.2023}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": -0.3182}}}
+{"name": "t1_n212ec4", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.11449999999999999}, "build": {"mentions": 1, "avg_sentiment": 0.1154}}}
+{"name": "t1_n216rn2", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.4927}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.4215}, "mids": {"mentions": 1, "avg_sentiment": -0.4215}}}
+{"name": "t1_n21utxm", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n22a7u2", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n22cn3s", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.9485}}}
+{"name": "t1_n22cwoc", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n22sf75", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.0772}, "build": {"mentions": 1, "avg_sentiment": 0.7783}}}
+{"name": "t1_n23291s", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n23xhav", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n23y0vy", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n24swcj", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4471}}}
+{"name": "t1_n24zr6n", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.4019}}}
+{"name": "t1_n25lxmh", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.28490000000000004}, "build": {"mentions": 4, "avg_sentiment": 0.02082500000000001}, "bass": {"mentions": 1, "avg_sentiment": -0.3612}, "power/amp": {"mentions": 1, "avg_sentiment": -0.2755}}}
+{"name": "t1_n25mkm8", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.4}, "bass": {"mentions": 1, "avg_sentiment": -0.4}}}
+{"name": "t1_n26amky", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.14919999999999997}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.128}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n26zw67", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n279l51", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.8176}}}
+{"name": "t1_n288vfo", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 3, "avg_sentiment": 0.2679333333333333}, "power/amp": {"mentions": 2, "avg_sentiment": 0.0653}, "build": {"mentions": 2, "avg_sentiment": 0.3021}, "comfort": {"mentions": 1, "avg_sentiment": 0.2023}}}
+{"name": "t1_n29410p", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.6128666666666667}, "power/amp": {"mentions": 3, "avg_sentiment": 0.6128666666666667}, "build": {"mentions": 1, "avg_sentiment": 0.5545}}}
+{"name": "t1_n2azjm8", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.1635}}}
+{"name": "t1_n2cmr2k", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2cxdoi", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2d25ft", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 3, "avg_sentiment": 0.5985333333333333}, "build": {"mentions": 3, "avg_sentiment": 0.6115666666666667}, "treble": {"mentions": 1, "avg_sentiment": 0.9274}, "mids": {"mentions": 1, "avg_sentiment": 0.9274}}}
+{"name": "t1_n2d6efs", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.2202}, "build": {"mentions": 2, "avg_sentiment": 0.2202}, "comfort": {"mentions": 2, "avg_sentiment": 0.43125}, "power/amp": {"mentions": 2, "avg_sentiment": 0.43125}, "mids": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2dljbu", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6597}}}
+{"name": "t1_n2e9esy", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_n2ei44j", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.4588}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4588}, "bass": {"mentions": 1, "avg_sentiment": 0.4588}}}
+{"name": "t1_n2ezdwn", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 2, "avg_sentiment": 0.21075}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2f2p0a", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6808}, "power/amp": {"mentions": 1, "avg_sentiment": 0.6808}}}
+{"name": "t1_n2f66ey", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.6341}, "build": {"mentions": 5, "avg_sentiment": 0.32794}, "mids": {"mentions": 1, "avg_sentiment": -0.2867}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.5092666666666666}, "power/amp": {"mentions": 2, "avg_sentiment": 0.3786}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2fjatm", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.5843499999999999}, "bass": {"mentions": 2, "avg_sentiment": 0.47985}, "build": {"mentions": 4, "avg_sentiment": 0.54545}, "power/amp": {"mentions": 1, "avg_sentiment": 0.4588}, "treble": {"mentions": 1, "avg_sentiment": 0.3291}}}
+{"name": "t1_n2frjvp", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_n2fvncx", "subreddit": "headphones", "cluster": 1, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.5267}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2fz5vn", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5554}}}
+{"name": "t1_n2h6e87", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2h7qx9", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 5, "avg_sentiment": 0.05517999999999999}, "build": {"mentions": 2, "avg_sentiment": -0.31905}, "treble": {"mentions": 1, "avg_sentiment": 0.9023}, "mids": {"mentions": 1, "avg_sentiment": 0.9023}, "bass": {"mentions": 1, "avg_sentiment": 0.9023}}}
+{"name": "t1_n2irrzq", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2jbdnd", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2jbj55", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5859}, "bass": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2joa4x", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.5379}, "build": {"mentions": 1, "avg_sentiment": 0.5379}}}
+{"name": "t1_n2ju2js", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2krrza", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.6643}, "power/amp": {"mentions": 2, "avg_sentiment": 0.6643}, "build": {"mentions": 2, "avg_sentiment": 0.6643}}}
+{"name": "t1_n2kwcxn", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.3604}, "mids": {"mentions": 3, "avg_sentiment": 0.24026666666666666}, "bass": {"mentions": 2, "avg_sentiment": 0.6455500000000001}, "build": {"mentions": 2, "avg_sentiment": 0.3013}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_n2kx7mw", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7269}}}
+{"name": "t1_n2l13tv", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2l708d", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2l7lqe", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2m99at", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.5091333333333333}, "treble": {"mentions": 2, "avg_sentiment": 0.28595}, "power/amp": {"mentions": 2, "avg_sentiment": 0.7637}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.5149}, "bass": {"mentions": 1, "avg_sentiment": 0.5149}}}
+{"name": "t1_n2mijzd", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 4, "avg_sentiment": 0.302525}, "bass": {"mentions": 3, "avg_sentiment": 0.32513333333333333}, "treble": {"mentions": 2, "avg_sentiment": 0.6191500000000001}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7506}}}
+{"name": "t1_n2mu1ls", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.9186}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9186}}}
+{"name": "t1_n2n4297", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.34}, "treble": {"mentions": 1, "avg_sentiment": 0.722}, "mids": {"mentions": 1, "avg_sentiment": 0.722}, "bass": {"mentions": 1, "avg_sentiment": 0.722}}}
+{"name": "t1_n2nkrk6", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7579}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.42935}, "build": {"mentions": 1, "avg_sentiment": 0.1779}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2os76j", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.49244999999999994}, "soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.7364250000000001}, "power/amp": {"mentions": 2, "avg_sentiment": 0.8959}, "treble": {"mentions": 1, "avg_sentiment": 0.5719}}}
+{"name": "t1_n2ova0d", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 4, "avg_sentiment": 0.337575}, "mids": {"mentions": 1, "avg_sentiment": 0.7506}, "bass": {"mentions": 3, "avg_sentiment": 0.5692666666666667}, "build": {"mentions": 4, "avg_sentiment": 0.4461}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.56775}}}
+{"name": "t1_n2oxvgo", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2ozxah", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2p2tek", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.6701333333333334}}}
+{"name": "t1_n2p7bmq", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n2p89ud", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2pfzy6", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 10, "avg_sentiment": 0.26963}, "build": {"mentions": 11, "avg_sentiment": 0.22472727272727272}, "treble": {"mentions": 1, "avg_sentiment": -0.3343}, "mids": {"mentions": 2, "avg_sentiment": 0.26115}}}
+{"name": "t1_n2pht8v", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.04844999999999999}}}
+{"name": "t1_n2pyhlx", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n2rgult", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n2rj3nv", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.057599999999999985}, "bass": {"mentions": 2, "avg_sentiment": -0.03434999999999999}, "treble": {"mentions": 3, "avg_sentiment": -0.1482}, "power/amp": {"mentions": 1, "avg_sentiment": 0.2732}}}
+{"name": "t1_n2rm0on", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.5965}, "comfort": {"mentions": 1, "avg_sentiment": 0.8625}}}
+{"name": "t1_n2t2fjd", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4091}}}
+{"name": "t1_n2te9kt", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.74565}, "build": {"mentions": 7, "avg_sentiment": 0.3357428571428572}, "bass": {"mentions": 2, "avg_sentiment": 0.58345}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9269}, "power/amp": {"mentions": 2, "avg_sentiment": 0.6991}, "mids": {"mentions": 2, "avg_sentiment": 0.3053}}}
+{"name": "t1_n2tgb1w", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.12123333333333335}, "mids": {"mentions": 2, "avg_sentiment": -0.1366}, "power/amp": {"mentions": 3, "avg_sentiment": 0.21230000000000002}, "build": {"mentions": 4, "avg_sentiment": 0.159225}, "treble": {"mentions": 1, "avg_sentiment": -0.6429}}}
+{"name": "t1_n2tq33n", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.6409499999999999}, "power/amp": {"mentions": 1, "avg_sentiment": 0.6222}, "build": {"mentions": 1, "avg_sentiment": 0.6222}}}
+{"name": "t1_n2u009u", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.9216}, "bass": {"mentions": 1, "avg_sentiment": 0.9216}, "build": {"mentions": 2, "avg_sentiment": 0.70775}}}
+{"name": "t1_n2u6b1d", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2us0um", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.8316}, "build": {"mentions": 6, "avg_sentiment": 0.6123833333333334}, "power/amp": {"mentions": 2, "avg_sentiment": 0.7376}, "comfort": {"mentions": 1, "avg_sentiment": 0.743}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.28555}}}
+{"name": "t1_n2woluw", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.6249}, "build": {"mentions": 2, "avg_sentiment": 0.07165000000000002}, "comfort": {"mentions": 3, "avg_sentiment": 0.23750000000000002}}}
+{"name": "t1_n2xnpvj", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n2xostt", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n2zlhre", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.0516}, "build": {"mentions": 2, "avg_sentiment": 0.29815}, "bass": {"mentions": 1, "avg_sentiment": 0.2563}}}
+{"name": "t1_n30kzed", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3182}, "treble": {"mentions": 1, "avg_sentiment": 0.3818}}}
+{"name": "t1_n30yeta", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.1779}, "build": {"mentions": 2, "avg_sentiment": -0.08895}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8122}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n33uno7", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n37afmu", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.8442}}}
+{"name": "t1_n391b06", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9747}, "build": {"mentions": 1, "avg_sentiment": 0.9747}}}
+{"name": "t1_n3aqelr", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 3, "avg_sentiment": -0.09806666666666668}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4927}}}
+{"name": "t1_n3d1zhv", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.0381}, "bass": {"mentions": 1, "avg_sentiment": 0.4404}, "comfort": {"mentions": 1, "avg_sentiment": 0.4404}, "power/amp": {"mentions": 1, "avg_sentiment": 0.4404}, "mids": {"mentions": 1, "avg_sentiment": 0.4404}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_n3ejnuy", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.6908}}}
+{"name": "t1_n3g2ta1", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.1806}}}
+{"name": "t1_n3ga8gi", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n3h3fza", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.7201}, "build": {"mentions": 1, "avg_sentiment": -0.7201}}}
+{"name": "t1_n3kfuu9", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 3, "avg_sentiment": 0.28576666666666667}, "build": {"mentions": 2, "avg_sentiment": 0.3155}}}
+{"name": "t1_n3kjbcn", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_n3kozsj", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n3m9wb8", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 2, "avg_sentiment": -0.52025}, "comfort": {"mentions": 1, "avg_sentiment": -0.296}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.28575}, "treble": {"mentions": 2, "avg_sentiment": -0.47814999999999996}, "bass": {"mentions": 1, "avg_sentiment": -0.6808}, "power/amp": {"mentions": 1, "avg_sentiment": -0.296}}}
+{"name": "t1_n3men8e", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n3n1r2p", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 2, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": -0.0772}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n3n3899", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.5994}}}
+{"name": "t1_n3nykm7", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 3, "avg_sentiment": 0.19676666666666667}, "build": {"mentions": 5, "avg_sentiment": 0.4751200000000001}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.3274}}}
+{"name": "t1_n3o5oe6", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n3oeyxb", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.6124}, "build": {"mentions": 1, "avg_sentiment": -0.6124}}}
+{"name": "t1_n3of132", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n3oot7b", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.36755}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "mids": {"mentions": 1, "avg_sentiment": 0.7264}, "bass": {"mentions": 1, "avg_sentiment": 0.7264}}}
+{"name": "t1_n3q27r6", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.28595}}}
+{"name": "t1_n3rdcyv", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": -0.10126666666666667}}}
+{"name": "t1_n3rl6uz", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.2263}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.2263}, "mids": {"mentions": 1, "avg_sentiment": 0.8338}}}
+{"name": "t1_n3rtcen", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n3tlhma", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.3612}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.05135}, "treble": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n3ulvs3", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.6273}}}
+{"name": "t1_n3unh3o", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n3vcl6d", "subreddit": "headphones", "cluster": 1, "aspects": {"bass": {"mentions": 1, "avg_sentiment": -0.296}}}
+{"name": "t1_n3zkd2t", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": 0.4017}}}
+{"name": "t1_n4047ks", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.5563}}}
+{"name": "t1_n408tod", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n43enql", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_n478de0", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.2023}}}
+{"name": "t1_n479boc", "subreddit": "headphones", "cluster": 0, "aspects": {}}
+{"name": "t1_n479kz4", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.7555}}}
+{"name": "t1_n47b1m0", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_n47innd", "subreddit": "headphones", "cluster": 2, "aspects": {}}
+{"name": "t1_n4841xl", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n489svy", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.6642}}}
+{"name": "t1_n49490b", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n49tkm5", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.2643}}}
+{"name": "t1_n4a6kfv", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.1513}}}
+{"name": "t1_n4bbs5m", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4cll1i", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4dkzjp", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 9, "avg_sentiment": 0.13273333333333331}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.5536666666666666}, "build": {"mentions": 3, "avg_sentiment": 0.16743333333333332}, "bass": {"mentions": 1, "avg_sentiment": 0.7351}, "power/amp": {"mentions": 1, "avg_sentiment": -0.4019}, "treble": {"mentions": 1, "avg_sentiment": 0.3182}}}
+{"name": "t1_n4eid5z", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7003}}}
+{"name": "t1_n4ejg6d", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4767}}}
+{"name": "t1_n4hyeri", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.4927}, "build": {"mentions": 5, "avg_sentiment": 0.12958}, "treble": {"mentions": 2, "avg_sentiment": 0.5528}}}
+{"name": "t1_n4j0ik7", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.8271}, "power/amp": {"mentions": 1, "avg_sentiment": 0.8271}}}
+{"name": "t1_n4lx1oo", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4m5q3h", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.2755}, "build": {"mentions": 1, "avg_sentiment": 0.1114}}}
+{"name": "t1_n4pkvxx", "subreddit": "headphones", "cluster": 5, "aspects": {"mids": {"mentions": 1, "avg_sentiment": 0.5719}, "bass": {"mentions": 1, "avg_sentiment": 0.5719}}}
+{"name": "t1_n4plxoq", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.5883499999999999}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n4r1r10", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.2732}}}
+{"name": "t1_n4sc4zp", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4ss9n2", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.8481}, "comfort": {"mentions": 1, "avg_sentiment": 0.4848}, "build": {"mentions": 5, "avg_sentiment": 0.31048}, "treble": {"mentions": 1, "avg_sentiment": 0.4215}}}
+{"name": "t1_n4syhd3", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4t1ple", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": -0.0516}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n4t22bu", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 4, "avg_sentiment": 0.15397499999999997}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.2023}, "mids": {"mentions": 1, "avg_sentiment": 0.1901}, "bass": {"mentions": 3, "avg_sentiment": -0.09553333333333335}, "power/amp": {"mentions": 1, "avg_sentiment": -0.4767}}}
+{"name": "t1_n4tn017", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.5994}, "build": {"mentions": 1, "avg_sentiment": 0.5994}}}
+{"name": "t1_n4ts7ix", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4ub2a6", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.7906}, "treble": {"mentions": 1, "avg_sentiment": -0.4215}}}
+{"name": "t1_n4v6nrc", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4vyks0", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.0772}}}
+{"name": "t1_n4ysvk9", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n4ytuwa", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.9132}}}
+{"name": "t1_n518sor", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 6, "avg_sentiment": 0.002583333333333345}, "comfort": {"mentions": 1, "avg_sentiment": -0.1603}}}
+{"name": "t1_n51p8vo", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n51vdbs", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.31845}, "comfort": {"mentions": 1, "avg_sentiment": -0.3919}, "build": {"mentions": 2, "avg_sentiment": 0.79375}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.6902666666666667}, "bass": {"mentions": 1, "avg_sentiment": 0.5046}}}
+{"name": "t1_n53duj5", "subreddit": "headphones", "cluster": 1, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.7906}, "build": {"mentions": 1, "avg_sentiment": 0.7906}}}
+{"name": "t1_n53h8sk", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n53jf49", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.7240500000000001}, "power/amp": {"mentions": 3, "avg_sentiment": 0.6030000000000001}, "build": {"mentions": 2, "avg_sentiment": 0.2446}, "comfort": {"mentions": 1, "avg_sentiment": 0.128}}}
+{"name": "t1_n53rs4l", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.3381}}}
+{"name": "t1_n53u4oq", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.72255}}}
+{"name": "t1_n548103", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n54kp71", "subreddit": "headphones", "cluster": 2, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.062450000000000006}, "treble": {"mentions": 1, "avg_sentiment": 0.9565}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9565}, "bass": {"mentions": 1, "avg_sentiment": 0.9565}}}
+{"name": "t1_n54lbeq", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n54mklc", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.3612}, "power/amp": {"mentions": 2, "avg_sentiment": 0.1806}, "treble": {"mentions": 1, "avg_sentiment": 0.2878}}}
+{"name": "t1_n55qsqx", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n57y60y", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.8067}, "build": {"mentions": 1, "avg_sentiment": 0.8067}, "treble": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n57z6s7", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 2, "avg_sentiment": 0.31845}, "comfort": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_n584p3o", "subreddit": "headphones", "cluster": 5, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.4764}, "comfort": {"mentions": 1, "avg_sentiment": 0.5888}}}
+{"name": "t1_n5871ng", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": -0.0572}, "power/amp": {"mentions": 1, "avg_sentiment": -0.0572}}}
+{"name": "t1_n589f5m", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": -0.6059}}}
+{"name": "t1_n58b8md", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n58bck5", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.3818}}}
+{"name": "t1_n58kjwr", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n58pqiz", "subreddit": "headphones", "cluster": 5, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.2023}, "power/amp": {"mentions": 1, "avg_sentiment": 0.2023}}}
+{"name": "t1_n59r5zf", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.2553}, "build": {"mentions": 1, "avg_sentiment": -0.5106}}}
+{"name": "t1_n5anyj6", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 2, "avg_sentiment": -0.06735000000000001}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": -0.0386}, "build": {"mentions": 2, "avg_sentiment": 0.0}, "bass": {"mentions": 1, "avg_sentiment": -0.0575}}}
+{"name": "t1_n5cu3sx", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.743}}}
+{"name": "t1_n5d0xaw", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n5ekb8o", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n5gkph8", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n5hdpmw", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 6, "avg_sentiment": 0.4408666666666667}, "comfort": {"mentions": 3, "avg_sentiment": 0.23029999999999998}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.7773000000000001}, "mids": {"mentions": 1, "avg_sentiment": 0.6124}, "bass": {"mentions": 1, "avg_sentiment": 0.9548}, "power/amp": {"mentions": 3, "avg_sentiment": 0.39740000000000003}}}
+{"name": "t1_n5he1z9", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.6322}, "power/amp": {"mentions": 2, "avg_sentiment": 0.64615}, "build": {"mentions": 1, "avg_sentiment": 0.824}, "treble": {"mentions": 2, "avg_sentiment": 0.11315}}}
+{"name": "t1_n5hfnol", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.4767}}}
+{"name": "t1_n5i37cp", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n5ihk47", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 6, "avg_sentiment": -0.08361666666666667}, "power/amp": {"mentions": 12, "avg_sentiment": 0.008791666666666661}, "soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.24845}, "build": {"mentions": 8, "avg_sentiment": -0.10368749999999999}, "treble": {"mentions": 2, "avg_sentiment": 0.18455}}}
+{"name": "t1_n5iya1u", "subreddit": "headphones", "cluster": 2, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": -0.08310000000000001}, "power/amp": {"mentions": 2, "avg_sentiment": -0.08310000000000001}, "soundstage/imaging": {"mentions": 4, "avg_sentiment": 0.28959999999999997}, "treble": {"mentions": 1, "avg_sentiment": 0.2263}}}
+{"name": "t1_n5nbkrd", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4404}, "bass": {"mentions": 1, "avg_sentiment": 0.6077}}}
+{"name": "t1_n5p8io4", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4404}, "treble": {"mentions": 1, "avg_sentiment": 0.8834}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.8834}, "comfort": {"mentions": 4, "avg_sentiment": 0.32235}, "power/amp": {"mentions": 4, "avg_sentiment": 0.32235}}}
+{"name": "t1_n5qrih1", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n5qru3y", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.36755}, "build": {"mentions": 2, "avg_sentiment": 0.36755}, "comfort": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n5x84dx", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 1, "avg_sentiment": 0.4497}, "power/amp": {"mentions": 1, "avg_sentiment": 0.4497}, "build": {"mentions": 2, "avg_sentiment": 0.22485}}}
+{"name": "t1_n5yaiwt", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n61thhu", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.25}, "bass": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n62epw6", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n63m374", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n63zi5e", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4404}}}
+{"name": "t1_n65zsoj", "subreddit": "headphones", "cluster": 1, "aspects": {"comfort": {"mentions": 2, "avg_sentiment": 0.3612}}}
+{"name": "t1_n66xg87", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.6954000000000001}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.7063}, "bass": {"mentions": 1, "avg_sentiment": 0.6988}}}
+{"name": "t1_n68uy4q", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n6al1as", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.1406}}}
+{"name": "t1_n6autkk", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n6avh98", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n6b5az5", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n6g2q93", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.1695}}}
+{"name": "t1_n6j99bc", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.2023}}}
+{"name": "t1_n6joo5q", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4939}}}
+{"name": "t1_n6jqb06", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n6jr02x", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n6jrkmk", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n6ov7hz", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n6slyor", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n6t8ccm", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 3, "avg_sentiment": 0.08626666666666667}, "bass": {"mentions": 3, "avg_sentiment": 0.33630000000000004}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.3182}, "treble": {"mentions": 5, "avg_sentiment": 0.52322}, "mids": {"mentions": 3, "avg_sentiment": 0.6608333333333333}, "comfort": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_n6ukj4h", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.6486}}}
+{"name": "t1_n6uzivk", "subreddit": "headphones", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.5209}}}
+{"name": "t1_n6wsb42", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7987}, "build": {"mentions": 2, "avg_sentiment": 0.03589999999999999}}}
+{"name": "t1_n6zcr3m", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.19826666666666667}, "build": {"mentions": 2, "avg_sentiment": 0.26335}}}
+{"name": "t1_n70xg4t", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}, "comfort": {"mentions": 1, "avg_sentiment": -0.3818}, "build": {"mentions": 6, "avg_sentiment": 0.5189333333333334}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.9655}, "bass": {"mentions": 1, "avg_sentiment": 0.9655}}}
+{"name": "t1_n71exte", "subreddit": "headphones", "cluster": 5, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.43945}}}
+{"name": "t1_n723rhf", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.4939}}}
+{"name": "t1_n74p33o", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n75wbrp", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 1, "avg_sentiment": 0.0}, "soundstage/imaging": {"mentions": 1, "avg_sentiment": -0.1901}, "power/amp": {"mentions": 1, "avg_sentiment": -0.1901}, "build": {"mentions": 2, "avg_sentiment": 0.5102}}}
+{"name": "t1_n76xth7", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n76y2j2", "subreddit": "headphones", "cluster": 5, "aspects": {"treble": {"mentions": 2, "avg_sentiment": -0.22024999999999997}, "build": {"mentions": 2, "avg_sentiment": -0.22024999999999997}}}
+{"name": "t1_n779d7y", "subreddit": "headphones", "cluster": 5, "aspects": {}}
+{"name": "t1_n78h1ex", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n78teo8", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.4215}}}
+{"name": "t1_n78z17c", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n7abkcx", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.4939}}}
+{"name": "t1_n7an1lo", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n7cw9ny", "subreddit": "headphones", "cluster": 1, "aspects": {"power/amp": {"mentions": 1, "avg_sentiment": -0.5216}}}
+{"name": "t1_n7fjhdg", "subreddit": "headphones", "cluster": 2, "aspects": {"bass": {"mentions": 2, "avg_sentiment": 0.5386500000000001}, "build": {"mentions": 2, "avg_sentiment": 0.4404}}}
+{"name": "t1_n7ga2wn", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n7gz0bl", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n7gzne9", "subreddit": "headphones", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}, "power/amp": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n7h0kj5", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.7687999999999999}, "bass": {"mentions": 1, "avg_sentiment": 0.6249}, "build": {"mentions": 2, "avg_sentiment": 0.48625}}}
+{"name": "t1_n7h28qm", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n7h2xir", "subreddit": "headphones", "cluster": 0, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.1531}, "build": {"mentions": 1, "avg_sentiment": 0.1531}}}
+{"name": "t1_n7h36jh", "subreddit": "headphones", "cluster": 1, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.2263}}}
+{"name": "t1_n7h70kd", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.0}, "mids": {"mentions": 1, "avg_sentiment": 0.9145}, "bass": {"mentions": 1, "avg_sentiment": 0.9145}, "build": {"mentions": 1, "avg_sentiment": 0.9145}}}
+{"name": "t1_n7herlp", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n7hs8ne", "subreddit": "headphones", "cluster": 5, "aspects": {"soundstage/imaging": {"mentions": 2, "avg_sentiment": 0.1423}, "build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n7hu5y7", "subreddit": "headphones", "cluster": 2, "aspects": {"soundstage/imaging": {"mentions": 1, "avg_sentiment": 0.0}, "build": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 1, "avg_sentiment": 0.3612}}}
+{"name": "t1_n7ifpnm", "subreddit": "headphones", "cluster": 2, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}, "treble": {"mentions": 2, "avg_sentiment": 0.22895}, "power/amp": {"mentions": 1, "avg_sentiment": -0.128}}}
+{"name": "t1_n7ikxsv", "subreddit": "headphones", "cluster": 2, "aspects": {"treble": {"mentions": 3, "avg_sentiment": 0.19063333333333332}, "bass": {"mentions": 3, "avg_sentiment": 0.19063333333333332}, "build": {"mentions": 5, "avg_sentiment": 0.24896000000000001}, "soundstage/imaging": {"mentions": 3, "avg_sentiment": 0.05106666666666665}, "power/amp": {"mentions": 1, "avg_sentiment": -0.4588}, "comfort": {"mentions": 1, "avg_sentiment": 0.5023}}}
+{"name": "t1_n7il7x1", "subreddit": "headphones", "cluster": 0, "aspects": {"treble": {"mentions": 2, "avg_sentiment": 0.4034}, "build": {"mentions": 2, "avg_sentiment": 0.4674}, "bass": {"mentions": 1, "avg_sentiment": -0.128}}}
+{"name": "t1_n7jvud3", "subreddit": "headphones", "cluster": 1, "aspects": {}}
+{"name": "t1_n0m0fn4", "subreddit": "homelab", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.2294}}}
+{"name": "t1_n4vlv9k", "subreddit": "homelab", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.09505}}}
+{"name": "t1_n5wfpa5", "subreddit": "homelab", "cluster": 1, "aspects": {}}
+{"name": "t1_mxpocx8", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.5991500000000001}}}
+{"name": "t1_mzhyxfy", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n08ikf1", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.6369}}}
+{"name": "t1_n08lbi1", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_n52otpq", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.1806}}}
+{"name": "t1_n6rrv3o", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 2, "avg_sentiment": 0.10115}, "comfort": {"mentions": 2, "avg_sentiment": 0.0}}}
+{"name": "t1_n6y2z3q", "subreddit": "hometheater", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": -0.2411}}}
+{"name": "t1_myhp8vu", "subreddit": "laptops", "cluster": 0, "aspects": {}}
+{"name": "t1_n222dro", "subreddit": "laptops", "cluster": 1, "aspects": {"treble": {"mentions": 1, "avg_sentiment": 0.7003}}}
+{"name": "t1_n4ulw5k", "subreddit": "laptops", "cluster": 1, "aspects": {}}
+{"name": "t1_n7fzf1f", "subreddit": "laptops", "cluster": 2, "aspects": {"build": {"mentions": 5, "avg_sentiment": 0.07336}, "treble": {"mentions": 1, "avg_sentiment": -0.34}}}
+{"name": "t1_n4oad2w", "subreddit": "mac", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}
+{"name": "t1_mw915re", "subreddit": "photography", "cluster": 1, "aspects": {"build": {"mentions": 4, "avg_sentiment": 0.09387499999999999}, "comfort": {"mentions": 3, "avg_sentiment": 0.14049999999999999}}}
+{"name": "t1_n2c74p7", "subreddit": "photography", "cluster": 1, "aspects": {"build": {"mentions": 1, "avg_sentiment": 0.0}}}

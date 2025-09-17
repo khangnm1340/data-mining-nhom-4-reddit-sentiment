@@ -1,0 +1,168 @@
+{
+  "BudgetAudiophile": {
+    "build": {
+      "mentions": 52,
+      "avg_sentiment": 0.21036538461538468
+    },
+    "soundstage/imaging": {
+      "mentions": 16,
+      "avg_sentiment": 0.404425
+    },
+    "power/amp": {
+      "mentions": 16,
+      "avg_sentiment": 0.19801874999999997
+    },
+    "bass": {
+      "mentions": 6,
+      "avg_sentiment": 0.32746666666666663
+    },
+    "treble": {
+      "mentions": 2,
+      "avg_sentiment": 0.6469
+    },
+    "comfort": {
+      "mentions": 2,
+      "avg_sentiment": 0.3548
+    },
+    "mids": {
+      "mentions": 2,
+      "avg_sentiment": 0.51725
+    }
+  },
+  "GamingLaptops": {
+    "build": {
+      "mentions": 5,
+      "avg_sentiment": -0.06688
+    },
+    "treble": {
+      "mentions": 1,
+      "avg_sentiment": 0.3612
+    }
+  },
+  "Monitors": {
+    "power/amp": {
+      "mentions": 5,
+      "avg_sentiment": 0.24821999999999997
+    },
+    "build": {
+      "mentions": 8,
+      "avg_sentiment": 0.13610000000000003
+    },
+    "treble": {
+      "mentions": 1,
+      "avg_sentiment": -0.3612
+    }
+  },
+  "PcBuild": {
+    "build": {
+      "mentions": 21,
+      "avg_sentiment": 0.0857047619047619
+    },
+    "power/amp": {
+      "mentions": 33,
+      "avg_sentiment": 0.164509090909091
+    },
+    "treble": {
+      "mentions": 2,
+      "avg_sentiment": -0.02150000000000002
+    }
+  },
+  "headphones": {
+    "bass": {
+      "mentions": 282,
+      "avg_sentiment": 0.32824361702127625
+    },
+    "build": {
+      "mentions": 750,
+      "avg_sentiment": 0.2188996000000002
+    },
+    "mids": {
+      "mentions": 102,
+      "avg_sentiment": 0.27621960784313737
+    },
+    "treble": {
+      "mentions": 238,
+      "avg_sentiment": 0.2748344537815124
+    },
+    "soundstage/imaging": {
+      "mentions": 422,
+      "avg_sentiment": 0.3130554502369667
+    },
+    "power/amp": {
+      "mentions": 273,
+      "avg_sentiment": 0.19770366300366293
+    },
+    "comfort": {
+      "mentions": 278,
+      "avg_sentiment": 0.20272949640287757
+    }
+  },
+  "homelab": {
+    "build": {
+      "mentions": 14,
+      "avg_sentiment": 0.12440000000000002
+    },
+    "power/amp": {
+      "mentions": 1,
+      "avg_sentiment": 0.0
+    }
+  },
+  "hometheater": {
+    "build": {
+      "mentions": 20,
+      "avg_sentiment": 0.226805
+    },
+    "comfort": {
+      "mentions": 3,
+      "avg_sentiment": 0.0
+    },
+    "power/amp": {
+      "mentions": 1,
+      "avg_sentiment": 0.0
+    },
+    "treble": {
+      "mentions": 1,
+      "avg_sentiment": 0.5093
+    }
+  },
+  "photography": {
+    "power/amp": {
+      "mentions": 1,
+      "avg_sentiment": -0.5994
+    },
+    "build": {
+      "mentions": 5,
+      "avg_sentiment": 0.07509999999999999
+    },
+    "comfort": {
+      "mentions": 3,
+      "avg_sentiment": 0.14049999999999999
+    }
+  },
+  "HomeDecorating": {
+    "power/amp": {
+      "mentions": 1,
+      "avg_sentiment": 0.0
+    },
+    "build": {
+      "mentions": 2,
+      "avg_sentiment": 0.0
+    }
+  },
+  "laptops": {
+    "treble": {
+      "mentions": 2,
+      "avg_sentiment": 0.18015
+    },
+    "build": {
+      "mentions": 5,
+      "avg_sentiment": 0.07336
+    }
+  },
+  "mac": {
+    "build": {
+      "mentions": 1,
+      "avg_sentiment": 0.0
+    }
+  }
+}

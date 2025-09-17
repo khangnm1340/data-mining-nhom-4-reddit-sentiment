@@ -1,0 +1,547 @@
+{
+  "clusters": [
+    {
+      "cluster": 0,
+      "size": 50,
+      "top_terms": [
+        [
+          "core",
+          0.06962175872650893
+        ],
+        [
+          "laptop",
+          0.053249935544670404
+        ],
+        [
+          "ram",
+          0.05171015838448252
+        ],
+        [
+          "want",
+          0.04502888982256286
+        ],
+        [
+          "gaming",
+          0.0432007539607702
+        ],
+        [
+          "gpu",
+          0.04174533915145791
+        ],
+        [
+          "battery",
+          0.04088872168834576
+        ],
+        [
+          "cpu",
+          0.040520263775458795
+        ],
+        [
+          "laptops",
+          0.037667366407000594
+        ],
+        [
+          "like",
+          0.03698548043708648
+        ],
+        [
+          "good",
+          0.03472615694760263
+        ],
+        [
+          "don",
+          0.03331142161568507
+        ],
+        [
+          "asus",
+          0.03315028578974771
+        ],
+        [
+          "use",
+          0.03190409789060909
+        ],
+        [
+          "really",
+          0.030175792010084232
+        ]
+      ],
+      "representatives": [
+        {
+          "name": "t3_1lcmemu",
+          "subreddit": "GamingLaptops",
+          "body": "Are these good deals? What to pick?? Looking to purchase first gaming laptop\nStruggle: I've only ever personally owned two laptops, one with 8gb ram the other with 12gb ram, and they both had some GPU that I couldn't even really find any real reviews of on the internet. I've never had a desktop/PC (unsure of wording here). I find it very hard to understand the performance difference of these two sales I found an internal discount program I have access to.\n\nIntended usage: I'm entering the software industry; I recently got at a job where I'm able to use a MacBook M4 Pro work laptop with a 20 core GPU that has 48gb ram and was really surprised by the difference. I regularly push beyond 32gb for work - a lot of it is due to working on various projects locally in parallel and having a billion wiki tabs open for them - but I don't really plan to work on that many concurrent projects on a personal laptop. I do want to play some eye candy games, though, and I also want to watch some documentaries or movies on high res. I do go around a lot so portability is a nice to have, and I don't have a docking station at home and don't plan on having one.\n\nTLDR: No clue what the real difference between these two laptops are, want to do software dev and play eye candy games and watch movies/documentaries, what to get & are these good deals??  \n\n\n"
+        },
+        {
+          "name": "t3_1mk3p6a",
+          "subreddit": "macbookpro",
+          "body": "Macbook M3 Pro vs Macbook M4\nHi everyone! I found two computers at good price. \n1- Macbook M3 Pro 1500€\n2- Macbook M4 1660€ \n\nI will be using it for coding, video editing with color grading, photo retouching and couple of games I like. \n\nWhich one is better for my needs. I know M3 Pro have more GPU core, RAM, more bandwith, but M4 has better CPU. Do I loose too much CPU power if I choose M3 Pro? It looks much better than M4 in my opinion, but I don’t want to make a mistake. I am waiting your help. Thanks!"
+        },
+        {
+          "name": "t3_1lmsbbf",
+          "subreddit": "macbookpro",
+          "body": "14 Core M4 Pro and 48GB RAM or 14 Core M4 Max 36GB RAM for After Effects Freelancer?\nHi,  \nI'm a freelancer and planning on getting a Macbook because I'll be travelling for the remainder of the year. But I can't seem to decide whether to pick a Macbook M4 Pro with 14 core and 48GB RAM or M4 Max with 14 Core and 36 GB RAM.  \nDoes the 14 Core Max have any significant leg up over the Pro despite the 36GB RAM? Or should I pick the 16 core Max just to get the 48GB RAM to see any significant improvement over the Pro? I don't want to end up purchasing something that I won't be using properly.\n\nMy work mostly involves 2D in AE and a bit of C4D and Redshift and I've been freelancing for almost 10 years with Windows."
+        },
+        {
+          "name": "t1_n2wtx73",
+          "subreddit": "laptops",
+          "body": "I also have macbook M4 pro 48gb ram. Yeah but its processors is very powerful. Good for work and casual gaming. Battery is fking good bro its stay for whole week for me. Which windows laptops stays that long?\nMy gaming laptop lenovo idp gaming 3 stays like 4 hrs max even for normal task."
+        },
+        {
+          "name": "t1_mvygqsf",
+          "subreddit": "macbookpro",
+          "body": "The MacBook m4 pro 14” 12 core cpu 16 core gpu"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "size": 19,
+      "top_terms": [
+        [
+          "buy",
+          0.11922411792414786
+        ],
+        [
+          "storage",
+          0.06748824376380785
+        ],
+        [
+          "new",
+          0.06488138757967352
+        ],
+        [
+          "need",
+          0.05477260099809139
+        ],
+        [
+          "screen",
+          0.054673456566149824
+        ],
+        [
+          "space",
+          0.0532796205060987
+        ],
+        [
+          "iphone",
+          0.051350337449781416
+        ],
+        [
+          "life",
+          0.0446746535378502
+        ],
+        [
+          "using",
+          0.04265776830122929
+        ],
+        [
+          "wanted",
+          0.040091933046792566
+        ],
+        [
+          "hand",
+          0.03855532819550607
+        ],
+        [
+          "got",
+          0.038387746988285856
+        ],
+        [
+          "laptop",
+          0.03773743720244787
+        ],
+        [
+          "color",
+          0.03491017643527431
+        ],
+        [
+          "best buy",
+          0.03421463076143547
+        ]
+      ],
+      "representatives": [
+        {
+          "name": "t3_1mdyukn",
+          "subreddit": "laptops",
+          "body": "Doubt\nI want to buy MacBook M4 13 256 GB SSD storage, apple is giving a discount and I can purchase it for 90k with free airpods but on reliance digital there's an offer in which I can buy it for ₹91,400 and get ₹10,000 cashback using card. Which is better, i would have to buy an earphone later so that's why I was leaning towards the apple discount but again I can get better earphones under ₹10,000. I was also planning to buy an 1TB SSD as I'll need more storage (I'm in college). Which offer i should go for? I need to buy a laptop now since I'm starting college next week."
+        },
+        {
+          "name": "t3_1m9z1n8",
+          "subreddit": "laptops",
+          "body": "MacBook m4 or m3\nI need to buy a MacBook which one should I buy . I need it mainly for studies and general entertainment."
+        },
+        {
+          "name": "t3_1l0qkf7",
+          "subreddit": "laptops",
+          "body": "Need suggestions\nHi guys 👋 i got asus rog zephyrus 16 2024 32 GB ram 1TB storage and RTX 4060 on black friday in 2024 at $ CAD 2000. So far its good laptop but i am not happy with battery life because i got 2.5-3 hrs of battery back at normal usage. I usually charge my laptop till 80% because of battery safety and life. But now i m think on sell it and bought macbook m4 pro. So should i sell it or trade it on best buy. And how much will i get? "
+        },
+        {
+          "name": "t3_1lirz82",
+          "subreddit": "mac",
+          "body": "Will only buy MacBook M4 if I find someone ready to buy AirPods 4 ANC (new, sealed) for 15k or less\nIf I don’t get a buyer, I’ll have to go for the M2 Air instead.\nNeed a quick hand-to-hand deal in Delhi/NCR. Leaving Delhi by Thursday so hit me up ASAP if you’re serious"
+        },
+        {
+          "name": "t1_n34zlkd",
+          "subreddit": "laptops",
+          "body": "Macbook M4 and a USB4/TB4 NVMe enclosure unless you really need the internal storage \n\nMBA M4 16/256 are $ 849.00 at Best Buy at the moment"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "size": 32,
+      "top_terms": [
+        [
+          "air",
+          0.21835417703863708
+        ],
+        [
+          "laptop",
+          0.06174944949459211
+        ],
+        [
+          "windows",
+          0.053296578021078275
+        ],
+        [
+          "years",
+          0.04822053575659989
+        ],
+        [
+          "buy",
+          0.04751230601754349
+        ],
+        [
+          "better",
+          0.046455877705741694
+        ],
+        [
+          "bit",
+          0.04286642475654155
+        ],
+        [
+          "great",
+          0.04138384587381632
+        ],
+        [
+          "editing",
+          0.03831662366878002
+        ],
+        [
+          "speakers",
+          0.03620715220965092
+        ],
+        [
+          "good",
+          0.03536356846608132
+        ],
+        [
+          "ram",
+          0.034939257815479345
+        ],
+        [
+          "need",
+          0.03442038646613487
+        ],
+        [
+          "budget",
+          0.033516596136980964
+        ],
+        [
+          "lenovo",
+          0.032828045372406925
+        ]
+      ],
+      "representatives": [
+        {
+          "name": "t3_1lsb7mw",
+          "subreddit": "macbookpro",
+          "body": "Macbook Air M4 to Macbook Pro M4 - are these reasons worth it?\nHi!\n\n**tl;dr** \\- Is the Macbook Pro M4 worth it over Macbook Air M4 when it comes to screen (deeper blacks and HDR, for light editing photos/videos and watching) and speakers (more bass/surround) vs. the size/weight trade-off? Or the Macbook Air M4's screen and speakers are good enough already given with the advantage of the size/weight than the Macbook Pro M4? My situation is below.\n\nI know I'll get biased answers here and this is something that I can answer to myself or know the answer already but a little help from this sub is better I believe even though there are multiple discussion/posts/videos about it.\n\nSo I posted last week in r/macbookair and eventually went with Macbook Air M4 (16GB + 512GB) and I got it in a good price that I can re-sell it (although it might take some time) and can earn around $140-160. My reason are that it's cheaper, lighter/portable (around 300g/less beefy than Pro) so I can bring it easily inside or outside the house, I'll do more browsing/productivity, occasional light photo or video editing and I'm planning to upgrade my Mac Mini M1 (16GB + 512GB) in the near future plus upgrading my monitor to an OLED Gaming Monitor (27\" 1440p 165Hz+).\n\nIt's my first personal laptop in 12 years and I'm happy with it especially when it comes to screen, speaker and size/weight. I've been using more often than my PC (Ryzen 7 5800x + 7800XT + 64GB) since I'm more into browsing and watching YouTube rather than playing (Dota 2) as it's more convenient to open the Macbook just to browse and watch YouTube than opening the PC and not only that, it'll much cheaper when it comes to electricity consumption since my PC would generate already around 200-250W given with the specs and what I'll be doing outside of gaming. \n\nHere comes my late realization, I thought I won't be using it that much and will only use it only occasionally but it became my main computer now given on my use case so I've been reading and searching between \"Macbook Air vs Pro M4\" lately for few days now and even post my Macbook Air M4 to check interest and I can sell it then I'll go with Macbook Pro M4.\n\nSo now, these are my questions/reasons (+/-) if it's worth it to get the Macbook Pro M4:\n\n* **Screen (+)** \\- I'm happy with the screen of Macbook Air M4 and I don't mind the screen size (13\") of it so upgrading it to 14\" is just a bonus but I'm wondering if the Liquid Retina XDR are worth it? I'm happy with the quality of the screen of Macbook Air M4 but I'm quite somehow sucker when it comes time to display/screen. I don't mind the refresh rate since it only matters to me when it comes to gaming. I have a 65\" TV although not an OLED (just an IPS) but it's a decent TV (LG SM9000) for me if I wanted to watch some videos (Movies/Series from Streaming Platform or Offline Files, YouTube) however the convenience on Macbook changed it\n* **Speaker** **(+)** \\- I'm surprised as well how good the speakers on Macbook Air M4 which makes me think if the speakers on Macbook Pro M4 are worth it. It seems the consensus is that, its good already and better than 90% of the laptop in the market but the speakers on Macbook Pro M4 are better (I'm not sure how much in real world experience) which I have yet to try in store though I don't have yet time now to do so. I have multiple audio sources (Polk Audio S15, Wharfedale 12.1, Swans M50W, Edifier R1380DB) if I really wanted to have a better sounds however again, the convenience on Macbook changed it\n* **Size/Weight (-)** \\- This is what made me fell in love with Macbook Air M4, the size and weight. I'm moving within our house (small) between living room, bedroom or kitchen once in a while so I don't think the size/weight will matter though I'm not sure if it's on my lap (if I'm in bed). For traveling, I only do around 2-4 per year when it comes to leisure travel (domestic or international) and my plan moving forward is to bring my Macbook Air M4 together with my camera/s (Fujifilm X100VI but planning to add Fujifilm X-T5) and/or lenses (Fujifilm 14mm f/2.8 and/or Fujifilm 35mm f/1.4 - I don't have it yet but what I'm planning to get). I'm not a big and strong guy so the 300g+ and the more beefy of Macbook M4 Pro will matter a bit but I'm not sure if it's big deal. What I plan is I'll leave it the accommodation. For moving within or outside the city, I'm planning to bring it once in a while through commuting (more often) or driving.\n\nHope you can still help me (even though I should be the one able to answer this) to decide and unfortunately, not an option to buy the Macbook Pro M4 and then compare it since I'm eyeing for a used one (with Apple Care+ Warranty until 2028) or just go YOLO and buy it and worry later which one to sell but this one is quite impractical and risky.\n\nThank you."
+        },
+        {
+          "name": "t3_1l4wdv2",
+          "subreddit": "macbookpro",
+          "body": "M4 AIR or M4 PRO For Coding+ casual Photo/Video editing?\nhttps://preview.redd.it/2xhco4cwyb5f1.png?width=1200&format=png&auto=webp&s=0c8b453262c46683ccc403c5801e124c07ade6c9\n\nI mostly use my computer for coding(mostly web dev, ai) and sometimes occasionally for some video/photo editing on davinci and photoshop \n\nand I was a bit confused between Macbook M4 Air (512 GB) and M4 PRO  \nI know most of my work could be well handled by m4 air , but Just wondering should I really pay a couple bucks more to get the m4 Pro just to have some extra fans? or would M4 Air be good enough for me even for a bit occasionally heavy video editing tasks?"
+        },
+        {
+          "name": "t1_myvfk45",
+          "subreddit": "photography",
+          "body": "I ordered a windows laptop! Should I return it?\n\nHey guys, I ordered a Lenovo Ideapad Pro 5 16 inch OLED for 1100usd, but now I'm worried if I should have gotten a Macbook M4 Air 15 inch 24gb ram instead, but for 550usd more? \nThe question is could the Lenovo possibly perform as good as the Macbook Air M4 24gb ram in Lightroom? The Air is 50% more expensive. \n\nThe specs of the Lenovo laptop:\nCPU: ULTRA 9 185H\nGPU: RTX 4050\nRAM: 32GB\nSSD: 1TB\nSCREEN: 16\" OLED, 120hz 100% DCI-P3, touch \n\nThe Lenovo reviews are good, it has a full metal body, fast ssd, I got it for 1100usd. I'm just worried it will lag in lightroom since it's a windows and also not a mac silicon cpu. not worried about battery life, most editing I do out of home is about 1 hour in a cafe a few days a week. \n\nCurrently I'm running a Macbook Air M1 8gb ram 😂 my work flow is about 500-1000 12mp jpeg+raw shoot imports 5-7 times a week, the M1 air sometimes lags badly and sometimes is smooth enough. M1 is my first mac, it's nice, but I kinda miss windows UI though. \n\nI added some benchmarks comparing the 185h cpu to Macbook Pro M4 16\" pretty much the only comparison to mac that I found of this cpu. But the M4 Pro 16\" costs more than double the lenovo. \n\nShould I return the Lenovo and get the Air? Or keep the Lenovo and buy a lens for the 550usd hahaha. thanks!"
+        },
+        {
+          "name": "t1_n2z49ha",
+          "subreddit": "laptops",
+          "body": "MacBook m4 air"
+        },
+        {
+          "name": "t1_n5cyycx",
+          "subreddit": "macbookpro",
+          "body": "Macbook M4 Air"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "size": 20,
+      "top_terms": [
+        [
+          "display",
+          0.11477082556227902
+        ],
+        [
+          "power",
+          0.10142350071212404
+        ],
+        [
+          "removed",
+          0.0874521250562607
+        ],
+        [
+          "displays",
+          0.06696018358864084
+        ],
+        [
+          "screen",
+          0.05641736804507469
+        ],
+        [
+          "doesn",
+          0.05477575667729816
+        ],
+        [
+          "damage",
+          0.0505974029026603
+        ],
+        [
+          "accessories",
+          0.04809832380077789
+        ],
+        [
+          "like",
+          0.04563748710407481
+        ],
+        [
+          "just",
+          0.039621087891501955
+        ],
+        [
+          "amazon",
+          0.039267792242654795
+        ],
+        [
+          "extended",
+          0.038323653841489516
+        ],
+        [
+          "mode",
+          0.03558809233860367
+        ],
+        [
+          "graphic",
+          0.03460266403548156
+        ],
+        [
+          "new",
+          0.03457329803699416
+        ]
+      ],
+      "representatives": [
+        {
+          "name": "t1_mwka2kc",
+          "subreddit": "laptops",
+          "body": "The MacBook m4s can power 2 displays and the MacBook display as well."
+        },
+        {
+          "name": "t3_1lfa3f6",
+          "subreddit": "mac",
+          "body": "Is there any reason I shouldn't use a USB-C cable instead of a Magsafe to power my Macbook M4?\nI upgraded my Macbook for the first time since 2018 to a Macbook M4 Pro and I'm in love. \n\nHowever, I'm having a few frustrations with my charging cable. \n\nIf I'm using my Macbook on the couch for long periods and would like it plugged into power my Magsafe keeps falling out when I move it around, like off my lap to rest. on the couch cushions etc. I understand why it has a quick release so that if the computer falls while it's plugged it the cord doesn't bend/snap. However, it's driving me nuts as it's always just slipping off.\n\nAre there any negatives to using a USBC to power instead of the magsafe, besides the fall risk?\n\nI apologise if its a very stupid question, I'm just not in a financial position to slowly ruin a new Macbook if it somehow damages the laptop long term. Like, maybe the USBC cords can power it but you shouldn't for a technical reason I don't know about?\n\nI appreciate the help and if this is a facepalm moment, I appreciate your patience. My last Macbook has the touchbar and four USB-C ports to power from, so I never had this particular concern. \n\nThanks!"
+        },
+        {
+          "name": "t3_1lzjsqo",
+          "subreddit": "mac",
+          "body": "Help!!! Need to connect my macbook M4 Pro to 2 extended displays\nI have 2 27 Inch 2K monitors and I want to use them as dual extended screens. I got a HDMI splitter which only gives me max ABB display. I want amazon link of something that can give me ABC display and also have atleast 60Hz refresh rate. Im unable to find something for this. Im from India so please provide something which I can get here. Need it ASAP"
+        },
+        {
+          "name": "t3_1lmyp47",
+          "subreddit": "macbookpro",
+          "body": "14\" MacBook M4 Pro - Screen Delamination?\n**Model:** 2024 14\" MacBook M4 Pro   \n**Specs:** 14CPU; 20GPU; 48GB   \n**Screen Type:** Nano Texture   \n**Date of first boot-up:** \\~ February 18th, 2025, Bought Directly From Apple  \n**When I noticed the Issue:** \\~ June 21st, 2025\n\niPhone's camera color-correction and autofocus are taking their unlimited sick days off as per usual, so it doesn't represent the issue correctly.  \nI included videos of me color-correcting and increasing contrast to exaggerate the issue to make it more visible.   \nThese shadows are more noticeable than on photos, and less noticeable than on these videos.\n\n[iPhone camera doesnt do the issue justice ](https://preview.redd.it/hb87q4qsfq9f1.jpg?width=5643&format=pjpg&auto=webp&s=c17b86cf739cd7eadfbef241a98950b896aa538f)\n\nhttps://reddit.com/link/1lmyp47/video/nh1q43u9hq9f1/player\n\n[Ignore the fingerprint-like pattern right in the middle, thats \\\\\"camera on LCD\\\\\" artifact ](https://reddit.com/link/1lmyp47/video/adfi5hmmmq9f1/player)\n\nhttps://reddit.com/link/1lmyp47/video/g11l70cymq9f1/player\n\n  \nVideo Example 1 YT link: [https://www.youtube.com/watch?v=-sSLGrVbMwE](https://www.youtube.com/watch?v=-sSLGrVbMwE)  \nVideo Example 2 YT link: [https://www.youtube.com/watch?v=DV1TBIib\\_4A](https://www.youtube.com/watch?v=DV1TBIib_4A)  \nVideo Example 3 YT link: [https://www.youtube.com/watch?v=t2m23EAoGXA](https://www.youtube.com/watch?v=t2m23EAoGXA)  \n  \n  \n**Notes**  \n**Vertical shadow** on the right side of the display: more noticeable when switching between desktops, because eyes are focusing on a horizontally-moving object, hence relative to the eyes this shadow is moving.   \n**Horizontal shadows** throughout the whole display: noticeable when scrolling web pages, or anything that is moving vertically. Same logic as before, eyes focusing on moving object -> relative to eyes moving object is stationary = shadows are moving relative to the eyes.  \nThey are visible no matter the display brightness, or external light setting.   \nIf those horizontal bright lights are backlights, then the whatever layer is responsible for dissipation is warped/wavy.   \nVertical shadows look like pixels lost their will to work in this economy.  \n  \n**Tasks this laptop is used for:**  \n4K, 8K MP4 and RAW video editing in Final Cut, exporting to h264, h265, sometimes small clips to RAW.   \n4k, 8k photo editing/corrections, sometimes \"Topaz Photos ai\" for upscaling, denoising etc.   \nFFMPEG recoding.  \nLogic Pro (insignificant load).  \nVSCode/Xcode (insignificant load).  \n  \n**CPU/GPU Temperatures:**  \nSimple Web browsing/writing this post 40Cº/50Cº  \nFans usually kick in at around 70Cº  \nDuring high load, CPU and GPU cores are at around 85Cº/103Cº\n\n**Dropped? Water spill? Some Other Damage?**  \nNope, never spilled any liquids, never dropped, never stabbed, never sat on...you get it.\n\n**Nano Texture Care:**  \nAlways used the cloth included in the box, never made the cloth or screen damp/wet, never sprayed any other screen cleaning things. Just dusted off with a compressor and wiped anything that was on there.   \nWhen screen is turned off and held up to the light - no visible bents, dents, marks, lards...no scratches.  \nBack side of the display panel is flat, ie no bends/dents.\n\n  \nAnyone seen this kind of issue? \n\nPersonally, after searching the whole of reddit and the rest of the internet, I didn't find any instances of similar damage to MacBooks, at least not the M4 models.   \n  \nTo me, looks like heat damage from the fan exhaust, as these vertical shadows on the left and right are right in front of these main exhausts. There is a middle one too, but it's not really for that main hot air. Half of the air still leaves through the bottom exhausts which are never blocked by anything btw, during high load laptop back feet are pried up on something, like bottle caps lol. \n\nThank God for that AppleCare+, otherwise it would be a £1000+ screen replacement. This way it will be £250 max or something, unless Apple \"Genius\" Bar will work something out in their favor as they like to do with repairs. \n\nOn a similar note, when i first started using this mac, i noticed slight shadowing on all the 4 corners of the screen, sides too just a bit. Thought it was software thing that Apple did to the UI. Apparently its a problem that is quite wide, but not warranted...  \n  \nGonna call that Apple support, describe my problem and see what they say.   \nWill make an appointment with an Apple store next week too, coz this is bugging my eyes just too much.\n\nWill be updating this post until the problem is resolved."
+        },
+        {
+          "name": "t3_1l0kym9",
+          "subreddit": "mac",
+          "body": "Protective Accessories\nI've just purchased my first MacBook (M4 Max) and I'd like to figure out how to protect it the best. I've also purchased AppleCare+, but it doesn't cover cosmetic damage such as worn out keycaps and scratches.\n\nI've been researching all over the internet. I know the usual recommendations are to not use any protective accessories like hard shells, keyboard covers, and screen protectors, as they can damage the hinge and screen. The way to go seems to be keeping the screen and keyboard clean.\n\nHowever, I use my laptop a lot and I want to be comfortable with it. I'm sometimes clumsy too. I much prefer putting these accessories than having to focus on cleaning it all the time. Since AppleCare+ only kicks in when something breaks, isn't it logical to use the accessories to prevent cosmetic damage and just have it repaired if something breaks?\n\nAlso, any recommendations for hard shells and screen protectors for 2024 MacBook M4 Max?"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "size": 2,
+      "top_terms": [
+        [
+          "trackpad",
+          0.24931842637651347
+        ],
+        [
+          "reported users",
+          0.15410988944396803
+        ],
+        [
+          "reported",
+          0.15410988944396803
+        ],
+        [
+          "trackpad press",
+          0.15410988944396803
+        ],
+        [
+          "similar cases",
+          0.15410988944396803
+        ],
+        [
+          "cases reported",
+          0.15410988944396803
+        ],
+        [
+          "metallic",
+          0.15410988944396803
+        ],
+        [
+          "wondering intentional",
+          0.15410988944396803
+        ],
+        [
+          "feature indicate",
+          0.15410988944396803
+        ],
+        [
+          "rattling sound",
+          0.15410988944396803
+        ],
+        [
+          "rattling",
+          0.15410988944396803
+        ],
+        [
+          "experiencing issue",
+          0.15410988944396803
+        ],
+        [
+          "press click",
+          0.15410988944396803
+        ],
+        [
+          "sound",
+          0.15410988944396803
+        ],
+        [
+          "sound wondering",
+          0.15410988944396803
+        ]
+      ],
+      "representatives": [
+        {
+          "name": "t3_1l8r0r0",
+          "subreddit": "macbookpro",
+          "body": "Trackpad MBPro\nI’m experiencing an issue with the trackpad on my MacBook M4 Pro. After I press or click it, I hear a metallic or rattling sound. I’m wondering if this is an intentional feature or if it might indicate a problem with the haptic engine or internal components. Have there been similar cases reported by other users?"
+        },
+        {
+          "name": "t3_1l5yfs9",
+          "subreddit": "macbookpro",
+          "body": "Trackpad mbp 14 m4pro\nI’m experiencing an issue with the trackpad on my MacBook M4 Pro. After I press or click it, I hear a metallic or rattling sound. I’m wondering if this is an intentional feature or if it might indicate a problem with the haptic engine or internal components. Have there been similar cases reported by other users?"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "size": 63,
+      "top_terms": [
+        [
+          "mini",
+          0.051284668409634256
+        ],
+        [
+          "mac",
+          0.049252033821781574
+        ],
+        [
+          "just",
+          0.04444472536052979
+        ],
+        [
+          "mac mini",
+          0.040084065206912066
+        ],
+        [
+          "it",
+          0.036601967559426185
+        ],
+        [
+          "upgrade",
+          0.029062650828873222
+        ],
+        [
+          "new",
+          0.029003527730782228
+        ],
+        [
+          "using",
+          0.026544114447906792
+        ],
+        [
+          "need",
+          0.0265413254602494
+        ],
+        [
+          "laptop",
+          0.02644806182316854
+        ],
+        [
+          "working",
+          0.02640451793973444
+        ],
+        [
+          "external",
+          0.024755930386838924
+        ],
+        [
+          "did",
+          0.023459360740453083
+        ],
+        [
+          "keyboard",
+          0.02301185817049501
+        ],
+        [
+          "air",
+          0.022884299860767017
+        ]
+      ],
+      "representatives": [
+        {
+          "name": "t1_n5wbw87",
+          "subreddit": "laptops",
+          "body": "MacBook m4 pro"
+        },
+        {
+          "name": "t3_1lqmwkm",
+          "subreddit": "macbookpro",
+          "body": "To trade or not to trade M2 Mac mini for M4 Mac book pro\nIn a dilemma right now as I need a laptop. Im a video editor and content creator and have been using the Mac mini spec’d with the following;\n\nM2 Pro with 12‑core CPU, 19-core GPU, 16‑core Neural Engine\n32GB unified memory\n1TB SSD storage\n\nLove the machine! Does eveeything I need without a hiccup and handles my 4k footage really well. However, I also now need portability.\n\nI've been traveling for work and needing to edit for work while away so I would use my girlfriends Mac Air with intel processor. It just cannot do what I need it to do coming from my desktop mac mini. Ever render takes FOREEVER and it lags and froze. \n\nMy gf thinks I should get my own laptop.\n\nSo with that I was thinking of getting the Macbook M4 Pro with 14core/20 and trade the mac mini for it. But idk Im also thinking I should keep both. I use a LG ultrawide monitor for my mini so I can plug and play into the new M4 Pro 14” to use as my desktop computer and to travel with.\n\nI'm not sure if I'll regret selling it though for the new laptop. I do love my mac mini desktop so idk if I should just keep it and also have the laptop. \n\nWhat do you all think is the best move?\n\nFor context I'm a drone pilot shooting 4k footage, edit for my personal youtube channel just for fun and I work as a freelance creating video content for clients. \n\n\n\n"
+        },
+        {
+          "name": "t3_1lzctl4",
+          "subreddit": "mac",
+          "body": "🔍 Mac Mini M4 + Custom PC or Just MacBook M4? Need Advice for Dev/College Setup\nGot it! Here's your revised Reddit post without the Samsung TV part and with a request for external display recommendations:\n\n# 🔍 Mac Mini M4 + Custom PC or Just MacBook M4? Need Advice for Dev/College Setup\n\nHey folks,  \nI'm planning a new device setup and would really appreciate some input to make the best decision for my needs.\n\n# 👨‍💻 Current Devices:\n\n* **iPhone 14**\n* **iPad Air 5 (M1)** – for note-taking and media\n* **Old Windows Laptop** (i5 11th Gen, 12GB RAM) – usable for on-the-go / college campus work\n* **AirPods Pro**\n* **Logitech Keyboard & Mouse**\n\n# 🎯 My Use Case:\n\n* I'm a **CS + Data Analytics undergrad**, and my classes are **mostly home-based**.\n* I do **competitive programming**, **full-stack & DevOps work**, some **ML/AI basics**, and academic/research projects (Jupyter, VS Code, etc.).\n* Occasionally I explore **iOS development** and use tools that require macOS.\n* No gaming, 3D rendering, or heavy video editing.\n\n# 💡 The Setup I’m Considering:\n\n* Buy the new **Mac mini M4 base model** (\\~$600 USD / ₹50,000 INR) for macOS tools, Xcode, research, and ML experiments.\n* Build a **custom PC** (\\~$600–750 USD / ₹50K–60K INR) for flexibility, Linux/Windows development, full-stack tools, and long working hours.\n* Eventually upgrade to a **MacBook Pro** (for serious portable use in 1–2 years).\n\n# ❓ What I Need Help With:\n\n1. Is the **Mac mini + PC combo better** long-term than buying a **MacBook M4 (13\")** directly now?\n2. Since I already have a decent laptop for light/portable tasks, is it smart to **skip the MacBook M4** and wait for a better MacBook Pro?\n3. Will this **dual-device setup** (PC + Mac mini) offer **more flexibility and value** for a dev/student, or is it unnecessary?\n4. I’ll need to buy a **separate monitor** for this setup — any **recommendations for a good display** in the $100–150 USD (₹8K–12K INR) range for coding, multitasking, and eye comfort?\n5. What kind of **PC build** would you recommend for someone doing mostly dev work, coding, and light ML?\n\nThanks a lot in advance! I want this to be future-proof but still sensible from a student’s perspective 🙏\n\n"
+        },
+        {
+          "name": "t3_1lx2uq5",
+          "subreddit": "mac",
+          "body": "Upgrade to M4 Pro Mac Mini vs upgrade to MacBook M4 Pro when already have MacBook Pro M2\nI already have a MacBook Pro M2 with 16 GB RAM. However, it's heavily underpowered for my current software development tasks. Out of 16 GB, 14.2 GB is always used. The compilation time of the code has also increased, and the MacBook feels hot. That's why I am considering an upgrade.\n\nAside from the reasons above, the MacBook remains very good overall.\n\nI already use an external monitor, keyboard, and mouse. One con that I can think of Mac Mini is that my keyboard doesn't have a fingerprint sensor to unlock the account or quick access to things while I am working.\n\nWanted to get the community's or any other software developers' opinion on what they think"
+        },
+        {
+          "name": "t1_n31dgjz",
+          "subreddit": "mac",
+          "body": "Now im more confused btw MacBook m4 air vs mac mini m4 as i do have a laptop and its working fine i need system for coding purposes and mac mini is a cost save and if i would have a upgrade in laptop i would go for MacBook pro in coming years"
+        }
+      ]
+    }
+  ]
+}
