@@ -47,22 +47,21 @@ BIẾN VỀ TÀI SẢN
       #align(center, block[
         #set align(left)
         #text(size: 14pt)[
-          Giảng Viên Hướng Dẫn: *Trần Thế Vinh*\
+          Giảng Viên Hướng Dẫn: *T.S Trần Thế Vinh*\
 
-          *Họ Và Tên Sinh Viên Thực Hiện Và MSSV:* \
-          Phạm Hoàng Thiện - 051205000064\
-          Ngô Minh Khang - 086250511340\
-          Nguyễn Văn Mạnh - 027205000040\
-          Nguyễn Văn Quang - 038205004237\
-          Lê Huỳnh Cao Dương-079204051017\
-          Nguyễn Ngọc Anh Thư\
-          Nguyễn Đăng Khoa\
-          Nguyễn Dương\
+          Họ Và Tên Sinh Viên Thực Hiện Và MSSV: \
+          *Phạm Hoàng Thiện - 051205000064*\
+          *Ngô Minh Khang - 086250511340*\
+          *Nguyễn Văn Mạnh - 027205000040*\
+          *Nguyễn Văn Quang - 038205004237*\
+          *Lê Huỳnh Cao Dương-079204051017*\
+          *Nguyễn Ngọc Anh Thư*\
+          *Nguyễn Đăng Khoa*\
 
         ]
       ])
 
-      #v(5cm)
+      #v(4cm)
 
       #text(size: 11pt, weight: "bold", style: "italic")[
         Thành phố Hồ Chí Minh, ngày 18 tháng 9 năm 2024
@@ -85,7 +84,7 @@ BIẾN VỀ TÀI SẢN
 
 
   #outline(
-    title: [#heading(level: 1, numbering: none)[Mục lục]],
+    title: [#heading(level: 1)[Mục lục]],
     depth: 3,
   )
 
@@ -106,7 +105,7 @@ BIẾN VỀ TÀI SẢN
   - Công cụ thu thập Arctic Shift vượt giới hạn API, cung cấp dữ liệu nhiều
   năm được lưu dưới dạng Parquet đồng nhất.
   - CLI (`run_pipeline.py`) chuyển tập văn bản đã lọc thành đặc trưng TF-
-  IDF/SVD, cụm KMeans và các artefact sentiment theo khía cạnh.
+  IDF/SVD, cụm KMeans và các artifact sentiment theo khía cạnh.
   - Kế hoạch fine-tune transformer đã được lập nhưng tạm hoãn sau phân tích
   chi phí/lợi ích; VADER đảm nhiệm pipeline sentiment bàn giao.
   - Đầu ra gồm joblib/JSON tái sử dụng, dashboard PNG và tư liệu thuyết
@@ -152,7 +151,7 @@ BIẾN VỀ TÀI SẢN
   lưu trữ.]
   )
   #figure(
-    image("images/data_for_ML.png"),
+    image("images/data_for_ML.png", width: 80%),
     caption: [Xem trước Parquet bài đăng và bình luận hợp nhất, đảm bảo ID
   thống nhất trước khi mô hình hóa.]
   )
@@ -176,9 +175,8 @@ BIẾN VỀ TÀI SẢN
   - Giữ cân bằng bài đăng/bình luận bằng cách đồng bộ các khóa (`name`,
   `subreddit`, `link_id`, `parent_id`) trước khi gộp.
   - #mono[`run_pipeline.py`] ghi log metadata tái lập (command-line, phiên
-  bản package) và xuất toàn bộ artefact trung gian vào thư mục chỉ định.
+  bản package) và xuất toàn bộ artifact trung gian vào thư mục chỉ định.
 
-#pagebreak()
   == Cách PRAW duyệt cây bình luận
   #columns(2, gutter: 1cm)[
     #list(
@@ -192,6 +190,7 @@ BIẾN VỀ TÀI SẢN
 
     #image("images/more-comments.png" )
   ]
+#pagebreak()
 
   == Phân tích dữ liệu thăm dò (EDA)
   - Tài sản EDA nằm trong `eda/` (PNG + CSV) để tái sử dụng nhanh cho slide
@@ -217,7 +216,7 @@ BIẾN VỀ TÀI SẢN
   insight văn bản ngoài karma.]
   )
   #figure(
-    image("eda/09b_posts_per_week.png"),
+    image("eda/09b_posts_per_week.png", width: 80%),
     caption: [Sản lượng bài đăng theo tuần phát hiện các đợt ra mắt phần
   cứng theo mùa.]
   )
@@ -237,12 +236,12 @@ BIẾN VỀ TÀI SẢN
   và điều phối.]
   )
   #figure(
-    image("eda/13_wordcloud_titles.png", width: 75%),
+    image("eda/13_wordcloud_titles.png", width: 85%),
     caption: [Word cloud tiêu đề nêu bật nhóm sản phẩm chủ đạo và chủ đề xử
   lý sự cố.]
   )
   #figure(
-    image("eda/14_wordcloud_comments.png", width: 65%),
+    image("eda/14_wordcloud_comments.png", width: 85%),
     caption: [Word cloud bình luận cho thấy các cụm từ cảm xúc lặp lại và
   thuật ngữ linh kiện.]
   )
@@ -329,7 +328,7 @@ BIẾN VỀ TÀI SẢN
   // tích cực vs. tiêu cực.]
   // )
 
-  === Artefact trọng tâm
+  === artifact trọng tâm
   - `tfidf_vectorizer.joblib`, `svd_model.joblib`,
   `svd_explained_variance.json` — pipeline đặc trưng có thể tái sử dụng.
   - `kmeans_clusters.json` — kích thước cụm, top TF-IDF và bài đại diện gần
@@ -346,7 +345,7 @@ BIẾN VỀ TÀI SẢN
   feat`, `--ngram-*`), giảm chiều (`--svd`), phân cụm (`--method`, `--k-min`,
   `--k-max`) và hành vi khía cạnh (`--aspect-category`, `--expand-seeds`, `--min-
   aspect-freq`).
-  - Artefact cho Fiio FT1, Sennheiser HD600 và Sony WF-1000XM4 được lưu tại
+  - artifact cho Fiio FT1, Sennheiser HD600 và Sony WF-1000XM4 được lưu tại
   `extra/artifacts_ft1`, `extra/artifacts_hd600` và `extra/artifacts_m4`.
 
   == Hạn chế & hướng phát triển
@@ -359,12 +358,12 @@ BIẾN VỀ TÀI SẢN
   - Cần bổ sung đánh giá (topic coherence, độ ổn định khi lấy mẫu lại, kiểm chứng
   có con người) cho vòng lặp kế tiếp.
   #figure(
-    image("images/non-english-comments.png", width: 60%),
+    image("images/non-english-comments.png", width: 50%),
     caption: [Ví dụ Reddit đa ngôn ngữ cho thấy nhu cầu xử lý tiếng Việt và châu
   Âu ở bản phát hành tiếp theo.]
   )
   #figure(
-    image("images/vast_ai.png"),
+    image("images/vast_ai.png",width: 55%),
     caption: [Ảnh chụp marketplace GPU Vast.ai — dự toán chi phí fine-tune khiến
   nhóm hoãn huấn luyện transformer.]
   )
