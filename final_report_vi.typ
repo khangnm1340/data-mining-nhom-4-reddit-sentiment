@@ -85,7 +85,14 @@ BIẾN VỀ TÀI SẢN
 
 #show outline.entry: it => link(
   it.element.location(),
-  it.indented(it.prefix(), emph(it.inner())),
+  it.indented(
+    it.prefix(),
+    if it.element.level == 1 {
+      it.inner()
+    } else {
+      emph(it.inner())
+    }
+  )
 )
 
 #outline(
