@@ -42,19 +42,23 @@
 BIẾN VỀ TÀI SẢN
       ]
 
-      #v(1cm)
+      #v(2cm)
 
       #align(center, block[
         #set align(left)
-        #text(size: 12pt)[
-          *GIẢNG VIÊN HƯỚNG DẪN:* \
-          *HỌ VÀ TÊN SINH VIÊN THỰC HIỆN:* \
-          *LỚP:* \
-          *MÃ SỐ SINH VIÊN:* 
+        #text(size: 14pt)[
+          Giảng Viên Hướng Dẫn: *Trần Thế Vinh*\
+
+          *Họ Và Tên Sinh Viên Thực Hiện Và MSSV:* \
+          Phạm Hoàng Thiện - 051205000064\
+          Ngô Minh Khang - 086250511340\
+          Nguyễn Văn Mạnh - 027205000040\
+          Nguyễn Văn Quang - 038205004237
+
         ]
       ])
 
-      #v(9cm)
+      #v(6cm)
 
       #text(size: 11pt, weight: "bold", style: "italic")[
         Thành phố Hồ Chí Minh, ngày .. tháng .. năm 2024
@@ -64,17 +68,31 @@ BIẾN VỀ TÀI SẢN
   #set page(width: 21cm, height: 29.7cm, margin: (top: 2.5cm, bottom: 2.5cm,
   left: 2cm, right: 2cm))
   #set text(font: "Noto Serif", lang: "en")
+  #let accent = rgb("#0B7285")
+  #let accent_secondary = rgb("#1864AB")
+  #let accent_tertiary = rgb("#495057")
+  #let meta = text.with(fill: accent_secondary,weight: "bold", size: 13pt)
   #let mono = text.with(font: "DejaVu Sans Mono")
-  #show heading.where(level: 1): set text(size: 22pt, weight: "bold")
-  #show heading.where(level: 2): set text(size: 16pt, weight: "bold")
-  #show heading.where(level: 3): set text(size: 13pt, weight: "semibold")
-  #show figure.caption: set text(size: 10pt)
+  #set heading(numbering: "1.")
+  #show heading.where(level: 1): set text(size: 22pt, weight: "bold", fill: accent)
+  #show heading.where(level: 2): set text(size: 16pt, weight: "bold", fill: accent_secondary)
+  #show heading.where(level: 3): set text(size: 13pt, weight: "semibold", fill: accent_tertiary)
+  #show figure.caption: set text(size: 10pt, fill: accent_secondary)
+
+
+  #outline(
+    title: [#heading(level: 1, numbering: none)[Table of Contents]],
+    depth: 3,
+  )
+
+
+  #pagebreak()
 
   = Analyzing Public Discussions for Product Insights
-  #smallcaps[Team :] Group 4 \
-  #smallcaps[Course :] UTH Data Mining — Final Report \
-  #smallcaps[Pipeline :] Reddit + Tiki collection → Parquet normalization →
-  EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect sentiment
+  // #meta[#smallcaps[Team :] Group 4] \
+  // #meta[#smallcaps[Course :] UTH Data Mining — Final Report] \
+  #meta[#smallcaps[Pipeline :]] *Reddit + Tiki collection → Parquet
+normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect sentiment*
 
   == Executive Overview
   - We mine 16 hardware-centric Reddit communities (plus complementary Tiki
@@ -97,6 +115,19 @@ BIẾN VỀ TÀI SẢN
   - Subreddit mix spans laptops, phones, audio, smart home, photography,
   PC building, and ergonomics—capturing both enthusiast and troubleshooting
   conversations.
+#columns(2)[
+  #figure(
+    image("images/subreddits.png", height: 20%),
+    caption: [Representative subreddit slate spanning homelab builds, monitors,
+  audiophile hubs, and Apple ecosystems.]
+  )
+#colbreak()
+  #figure(
+    image("images/tiki.png"),
+    caption: [Sample of Tiki camera reviews — structured ratings with
+  Vietnamese free-text complement Reddit narratives.]
+  )
+]
 
   === Arctic Shift workflow
   - Historical dumps (Academic Torrents) feed the Arctic Shift collector,
@@ -105,6 +136,21 @@ BIẾN VỀ TÀI SẢN
   available.
   - Data is normalized via Polars/Nushell from 32 JSONL exports to
   `posts.parquet` and `comments.parquet`, enforcing consistent schemas.
+  #figure(
+    image("images/artic-shift.png",width: 50%),
+    caption: [Arctic Shift download tool set to pull the full r/headphones
+  history — bypassing API caps for longitudinal coverage.]
+  )
+  #figure(
+    image("images/pushshift.png"),
+    caption: [Pushshift access is now moderator-only, reinforcing the need for
+  self-hosted archival strategies.]
+  )
+  #figure(
+    image("images/data_for_ML.png"),
+    caption: [Unified posts-and-comments Parquet preview showing normalized
+  identifiers prior to modeling.]
+  )
 
   === Corpus snapshot
   #table(
@@ -132,7 +178,7 @@ BIẾN VỀ TÀI SẢN
   - EDA assets reside under `eda/` (PNG + CSV) for quick reuse in slides
   and dashboards.
   #figure(
-    image("eda/01_posts_by_subreddit.png"),
+    image("eda/01_posts_by_subreddit.png",width: 80%),
     caption: [Post counts by subreddit — PcBuild, iPhone, and GamingLaptops
   dominate volume.]
   )
@@ -161,6 +207,36 @@ BIẾN VỀ TÀI SẢN
     caption: [Weekly/hourly heatmap of activity — evenings and weekends
   drive most conversations.]
   )
+  #figure(
+    image("eda/11_top_post_authors.png", width: 75%),
+    caption: [Top post authors — flags power users who shape each hardware
+  narrative.]
+  )
+  #figure(
+    image("eda/12_top_comment_authors.png", width: 75%),
+    caption: [Top comment authors — identifies moderation-heavy and
+  support-oriented contributors.]
+  )
+  #figure(
+    image("eda/13_wordcloud_titles.png", width: 75%),
+    caption: [Title word cloud surfaces dominant product classes and
+  troubleshooting topics.]
+  )
+  #figure(
+    image("eda/14_wordcloud_comments.png", width: 75%),
+    caption: [Comment word cloud highlights recurring sentiment cues and
+  component-level jargon.]
+  )
+  #figure(
+    image("eda/16_score_vs_length_comments.png", width: 75%),
+    caption: [Comment score versus length — longer replies trend toward
+  higher karma among troubleshooting threads.]
+  )
+  #figure(
+    image("eda/17_score_vs_length_posts.png", width: 75%),
+    caption: [Post score versus selftext length — concise launch rumors and
+  detailed reviews both find audiences.]
+  )
   - Additional visuals: word clouds, score-versus-length scatterplots,
   author leaderboards, and CSV exports for deeper analysis (`eda/*.csv`).
 
@@ -172,8 +248,16 @@ BIẾN VỀ TÀI SẢN
   limited marginal benefit vs. leveraging unsupervised topic insights.
   - Delivered approach: VADER (rule-based) for sentence polarity during
   aspect aggregation, retaining the documented plan for future enhancement.
+  #figure(
+    image("images/distillbert.png"),
+    caption: [Deferred fine-tuning target `lxyuan/distilbert-base-multilingual`
+  — parked due to GPU and labeling constraints.]
+  )
 
   == Topic Modeling & Aspect Pipeline
+  The CLI executes a deterministic loop—cleaning → TF-IDF → SVD → KMeans →
+  aspect sentiment—balancing automation for rapid iteration with
+  explicit flags for power users who need to override defaults.
   === Pre-processing
   - Normalize Unicode (NFC), strip URLs/code fences, lowercase, remove non-
   alphabetic characters while preserving apostrophes.
@@ -188,13 +272,24 @@ BIẾN VỀ TÀI SẢN
   - TruncatedSVD clamps components to `min(round(0.25N), 200)`
   with a floor of 50, logging explained variance for transparency
   (`run_pipeline.py:560`).
+  - Guardrails clamp SVD to `min(V - 1, N - 1)` and expose overrides via
+  `--min-df`, `--max-feat`, and `--svd`, giving small corpora a safe path
+  without losing expert control.
+  - Empty vocabulary protection automatically retries TF-IDF with
+  `min_df = 1`, so edge-case alias runs still generate features instead of
+  failing fast.
 
   === Clustering workflow
   - KMeans sweep across `k_min..k_max` (default 3–8) guided by silhouette
-  score; cluster sizes, top TF-IDF terms, and representative comments are
-  persisted as JSON (`run_pipeline.py:603`).
+  score; `method.json` captures the search bounds, seeds, and best score so
+  downstream analysts know why a `k` was picked.
+  - Cluster diagnostics combine TF-IDF means (`top_terms_by_cluster`) with
+  centroid-nearest exemplars (`representatives_by_cluster`) to surface
+  interpretable themes and quote-ready posts.
+  - Optional `--save-plots` renders bar charts of cluster sizes for quick
+  QA before sharing results.
   #figure(
-    image("extra/artifacts_ft1/cluster_sizes.png"),
+    image("extra/artifacts_ft1/cluster_sizes.png",width: 60%),
     caption: [Cluster size distribution (Fiio FT1 example) after SVD-reduced
   KMeans.]
   )
@@ -205,6 +300,14 @@ BIẾN VỀ TÀI SẢN
   terms.
   - Sentence-level pattern matching assigns hits; VADER polarity populates
   mentions, average sentiment, and curated quote lists.
+  - `assignments.jsonl` marries each document’s cluster label with its
+  aspect sentiment profile, while `aspect_summary*.json` filters out noisy
+  aspects below an adaptive frequency threshold (`max(5, round(0.01N))`).
+  - Analysts can deepen coverage with `--expand-seeds`, which injects top
+  TF-IDF terms (minus brand aliases) into the aspect dictionaries for more
+  organic phrasing.
+  - Quote buffers only keep sentences past ±0.05 compound polarity and cap
+  the stored examples at five per aspect, balancing signal and brevity.
   #figure(
     image("extra/artifacts_ft1/aspects_pos_neg.png"),
     caption: [Aspect sentiment summary (Fiio FT1 run): positive vs. negative
@@ -214,12 +317,14 @@ BIẾN VỀ TÀI SẢN
   === Key artifacts
   - `tfidf_vectorizer.joblib`, `svd_model.joblib`,
   `svd_explained_variance.json` — reproducible feature pipeline.
-  - `kmeans_clusters.json`, `cluster_representatives.json`,
-  `cluster_topics.json` — interpretable topic exports.
+  - `kmeans_clusters.json` — cluster sizes, TF-IDF top terms, and centroid-
+  nearest representative posts in one package; `method.json` logs the
+  selected hyper-parameters.
   - `assignments.jsonl`, `aspect_summary.json`,
   `aspect_summary_by_subreddit.json` — document-level clusters with aspect
-  sentiment.
-  - Optional PNGs: `cluster_sizes.png`, `aspects_pos_neg.png`.
+  sentiment, filtered by the adaptive frequency floor.
+  - Optional PNGs: `cluster_sizes.png`, `aspects_pos_neg.png` for quick
+  sanity checks.
 
   == Deliverables & Usage
   - CLI entry point: `run_pipeline.py --data <parquet> --product <name>
@@ -241,6 +346,16 @@ BIẾN VỀ TÀI SẢN
   English sentiment more faithfully.
   - Additional evaluation (topic coherence, stability under resampling,
   human-in-the-loop validation) should accompany the next iteration.
+  #figure(
+    image("images/vast_ai.png", width: 80%),
+    caption: [Vast.ai GPU marketplace snapshot — projected fine-tuning spend
+  that led to deferring transformer training.]
+  )
+  #figure(
+    image("images/non-english-comments.png", width: 80%),
+    caption: [Multilingual Reddit excerpts highlight the need for Vietnamese
+  and European-language handling in the next release.]
+  )
 
   == Appendix
   === Core assets
