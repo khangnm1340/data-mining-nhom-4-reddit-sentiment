@@ -83,10 +83,15 @@ BIẾN VỀ TÀI SẢN
   #show figure.caption: set text(size: 10pt, fill: accent_secondary)
 
 
-  #outline(
-    title: [#heading(level: 1, numbering: none)[Mục lục]],
-    depth: 3,
-  )
+#show outline.entry: it => link(
+  it.element.location(),
+  it.indented(it.prefix(), emph(it.inner())),
+)
+
+#outline(
+  title: [#heading(level: 1, numbering: none)[#emph[Mục lục]]],
+  depth: 3,
+)
 
 
   #pagebreak()
@@ -94,9 +99,10 @@ BIẾN VỀ TÀI SẢN
   = Giới thiệu & Phạm vi dự án
   // #meta[#smallcaps[Nhóm :] Group 4] \
   // #meta[#smallcaps[Học phần :] UTH Data Mining — Final Report] \
-  #meta[#smallcaps[Pipeline :]] *Thu thập Reddit + Tiki → Chuẩn hóa Parquet
-→ EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect sentiment*
- *Link github*: https://github.com/khangnm1340/data-mining-nhom-4-reddit-sentiment
+  #meta[#smallcaps[Pipeline :]] #text(size: 13pt)[*Thu thập Reddit + Tiki → Chuẩn hóa Parquet
+→ EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect sentiment*\
+ *Link github*:
+https://github.com/khangnm1340/data-mining-nhom-4-reddit-sentiment]
 
   = Tóm tắt điều hành
   - Chúng em khai thác 16 cộng đồng Reddit tập trung vào phần cứng (kèm các
