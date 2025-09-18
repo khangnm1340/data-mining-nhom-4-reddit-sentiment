@@ -88,13 +88,13 @@ BIẾN VỀ TÀI SẢN
 
   #pagebreak()
 
-  = Analyzing Public Discussions for Product Insights
+  = Introduction & Scope
   // #meta[#smallcaps[Team :] Group 4] \
   // #meta[#smallcaps[Course :] UTH Data Mining — Final Report] \
   #meta[#smallcaps[Pipeline :]] *Reddit + Tiki collection → Parquet
 normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect sentiment*
 
-  == Executive Overview
+  = Executive Overview
   - We mine 16 hardware-centric Reddit communities (plus complementary Tiki
   reviews) to surface recurring product issues, pros/cons, and topic trends.
   - Arctic Shift harvesting bypasses API caps to deliver multi-year coverage
@@ -106,8 +106,8 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   - Outputs include reusable joblibs/JSON summaries, PNG dashboards, and
   presentation assets in `extra/`.
 
-  == Data Sources & Collection
-  === Reddit & Tiki rationale
+  = Data Sources & Collection
+  == Reddit & Tiki rationale
   - Reddit supplies rich, text-first, community-moderated threads; Tiki adds
   verified purchase feedback from the Vietnamese market.
   - Facebook and TikTok were deprioritized due to API scarcity, bot noise,
@@ -129,7 +129,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   )
 ]
 
-  === Arctic Shift workflow
+  == Arctic Shift workflow
   - Historical dumps (Academic Torrents) feed the Arctic Shift collector,
   eliminating PRAW’s ~1 000 post ceiling per subreddit.
   - Tiki review dumps augment Reddit for cross-source validation when
@@ -152,7 +152,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   identifiers prior to modeling.]
   )
 
-  === Corpus snapshot
+  == Corpus snapshot
   #table(
     columns: (auto, auto, auto, auto),
     align: (left, right, right, right),
@@ -163,7 +163,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
     [Comments], [1300190], [16], [16],
   )
 
-  == Data Engineering & Integration
+  = Data Engineering & Integration
   - Filtering uses case-insensitive alias matching (e.g. “hd600”, “fiio
   ft1”), with optional subreddit restriction.
   - Brand/alias tokens are added to the stopword list to avoid dominating
@@ -174,7 +174,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   package versions) and writes all intermediate artifacts to the specified
   output directory.
 
-  == Exploratory Data Analysis
+  = Exploratory Data Analysis
   - EDA assets reside under `eda/` (PNG + CSV) for quick reuse in slides
   and dashboards.
   #figure(
@@ -240,7 +240,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   - Additional visuals: word clouds, score-versus-length scatterplots,
   author leaderboards, and CSV exports for deeper analysis (`eda/*.csv`).
 
-  == Sentiment Analysis — Initial Plan & Decision
+  = Sentiment Analysis — Initial Plan & Decision
   - Intended flow: fine-tune `lxyuan/distilbert-base-multilingual-cased-
   sentiments-student` on a stratified, Gemini-assisted label set (target
   ≥5 k annotations for calibration and evaluation).
@@ -254,18 +254,18 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   — parked due to GPU and labeling constraints.]
   )
 
-  == Topic Modeling & Aspect Pipeline
+  = Topic Modeling & Aspect Pipeline
   The CLI executes a deterministic loop—cleaning → TF-IDF → SVD → KMeans →
   aspect sentiment—balancing automation for rapid iteration with
   explicit flags for power users who need to override defaults.
-  === Pre-processing
+  == Pre-processing
   - Normalize Unicode (NFC), strip URLs/code fences, lowercase, remove non-
   alphabetic characters while preserving apostrophes.
   - Token filtering retains words longer than two characters and excludes
   expanded stopwords (including brand aliases).
   - Aliases/subreddit filters yield a focused corpus per product run.
 
-  === Feature Selection & Dimensionality Reduction
+  == Feature Selection & Dimensionality Reduction
   - TF-IDF (`ngram_range = 1–2`) with adaptive `min_df` (3 if N ≥ 300 else
   2) and `max_df = 0.95`; vocabulary capped at `min(2000, 3N)` when auto
   mode is used (`run_pipeline.py:545`).
@@ -279,7 +279,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   `min_df = 1`, so edge-case alias runs still generate features instead of
   failing fast.
 
-  === Clustering workflow
+  == Clustering workflow
   - KMeans sweep across `k_min..k_max` (default 3–8) guided by silhouette
   score; `method.json` captures the search bounds, seeds, and best score so
   downstream analysts know why a `k` was picked.
@@ -294,7 +294,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   KMeans.]
   )
 
-  === Aspect extraction & sentiment fusion
+  == Aspect extraction & sentiment fusion
   - Subreddit membership auto-selects aspect seed dictionaries (battery,
   thermals, comfort, etc.); optional TF-IDF expansion adds corpus-specific
   terms.
@@ -314,7 +314,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   quote counts.]
   )
 
-  === Key artifacts
+  == Key artifacts
   - `tfidf_vectorizer.joblib`, `svd_model.joblib`,
   `svd_explained_variance.json` — reproducible feature pipeline.
   - `kmeans_clusters.json` — cluster sizes, TF-IDF top terms, and centroid-
@@ -326,7 +326,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   - Optional PNGs: `cluster_sizes.png`, `aspects_pos_neg.png` for quick
   sanity checks.
 
-  == Deliverables & Usage
+  = Deliverables & Usage
   - CLI entry point: `run_pipeline.py --data <parquet> --product <name>
   --aliases <comma-separated> --out <dir> [options]`.
   - Configuration knobs control vectorization (`--min-df`, `--max-
@@ -337,7 +337,7 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   archived under `extra/artifacts_ft1`, `extra/artifacts_hd600`, and `extra/
   artifacts_m4`.
 
-  == Limitations & Future Work
+  = Limitations & Future Work
   - Sentiment remains rule-based; executing the documented fine-tuning plan
   would handle sarcasm and domain-specific jargon better.
   - The NMF/LDA branch is scaffolded but not productized—adding it would
@@ -357,15 +357,15 @@ normalization → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect se
   and European-language handling in the next release.]
   )
 
-  == Appendix
-  === Core assets
+  = Appendix
+  == Core assets
   - `plan.md` — detailed architecture, alternatives, evaluation heuristics.
   - `eda/` — exploratory plots and CSV summaries.
   - `run_pipeline.py` (root & `extra/`) — configurable topic + aspect
   sentiment CLI.
   - `extra/bai_thuyet_trinh.typ` — Typst slide deck presented in class.
 
-  === Example console summary (abridged)
+  == Example console summary (abridged)
   #block[
     #mono[
       N=742, V=1625, min_df=3, max_df=0.95, max_features=2000 \

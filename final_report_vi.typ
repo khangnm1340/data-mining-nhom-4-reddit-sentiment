@@ -84,21 +84,21 @@ BIẾN VỀ TÀI SẢN
 
 
   #outline(
-    title: [#heading(level: 1)[Mục lục]],
+    title: [#heading(level: 1, numbering: none)[Mục lục]],
     depth: 3,
   )
 
 
   #pagebreak()
 
-  = Phân tích thảo luận công khai để rút ra insight sản phẩm
+  = Giới thiệu & Phạm vi dự án
   // #meta[#smallcaps[Nhóm :] Group 4] \
   // #meta[#smallcaps[Học phần :] UTH Data Mining — Final Report] \
   #meta[#smallcaps[Pipeline :]] *Thu thập Reddit + Tiki → Chuẩn hóa Parquet
 → EDA → Topic modeling (TF-IDF → SVD → KMeans) + Aspect sentiment*
  *Link github*: https://github.com/khangnm1340/data-mining-nhom-4-reddit-sentiment
 
-  == Tóm tắt điều hành
+  = Tóm tắt điều hành
   - Chúng em khai thác 16 cộng đồng Reddit tập trung vào phần cứng (kèm các
   đánh giá Tiki bổ sung) để phát hiện vấn đề sản phẩm lặp lại, ưu/nhược
   điểm và xu hướng chủ đề.
@@ -111,8 +111,8 @@ BIẾN VỀ TÀI SẢN
   - Đầu ra gồm joblib/JSON tái sử dụng, dashboard PNG và tư liệu thuyết
   trình trong `extra/`.
 
-  == Nguồn dữ liệu & Thu thập
-  === Lý do chọn Reddit & Tiki
+  = Nguồn dữ liệu & Thu thập
+  == Lý do chọn Reddit & Tiki
   - Reddit cung cấp chủ đề giàu văn bản và được cộng đồng kiểm duyệt
   - Tiki bổ sung phản hồi mua hàng xác thực từ thị trường Việt Nam.
   - Facebook và TikTok bị đặt thấp ưu tiên do thiếu API, nhiễu bot và thiên
@@ -134,7 +134,7 @@ BIẾN VỀ TÀI SẢN
   )
 ]
 
-  === Quy trình Arctic Shift
+  == Quy trình Arctic Shift
   - Các gói dữ liệu lịch sử (Academic Torrents) cấp nguồn cho bộ thu Arctic
   Shift, loại bỏ giới hạn ~1 000 bài/subreddit của PRAW.
   - Dump đánh giá Tiki bổ trợ Reddit để đối chiếu chéo khi khả dụng.
@@ -156,7 +156,7 @@ BIẾN VỀ TÀI SẢN
   thống nhất trước khi mô hình hóa.]
   )
 
-  === Ảnh chụp corpus
+  == Ảnh chụp corpus
   #table(
     columns: (auto, auto, auto, auto),
     align: (left, right, right, right),
@@ -167,7 +167,7 @@ BIẾN VỀ TÀI SẢN
     [Comments], [1300190], [16], [16],
   )
 
-  == Kỹ thuật dữ liệu & tích hợp
+  = Kỹ thuật dữ liệu & tích hợp
   - Lọc sử dụng khớp alias không phân biệt hoa thường (ví dụ “hd600”, “fiio
   ft1”), kèm tùy chọn giới hạn theo subreddit.
   - Token thương hiệu/alias được đưa vào danh sách stopword để không chiếm
@@ -177,7 +177,7 @@ BIẾN VỀ TÀI SẢN
   - #mono[`run_pipeline.py`] ghi log metadata tái lập (command-line, phiên
   bản package) và xuất toàn bộ artifact trung gian vào thư mục chỉ định.
 
-  == Cách PRAW duyệt cây bình luận
+  == Cách PRAW duyệt bình luận
   #columns(2, gutter: 1cm)[
     #list(
       [Reddit trả về cây bình luận với nút `View more comments`.],
@@ -192,7 +192,7 @@ BIẾN VỀ TÀI SẢN
   ]
 #pagebreak()
 
-  == Phân tích dữ liệu thăm dò (EDA)
+  = Phân tích dữ liệu thăm dò (EDA)
   - Tài sản EDA nằm trong `eda/` (PNG + CSV) để tái sử dụng nhanh cho slide
   và dashboard.
   #figure(
@@ -258,7 +258,7 @@ BIẾN VỀ TÀI SẢN
   - Các hình bổ sung: word cloud, scatter plot score-theo-độ-dài, bảng xếp
   hạng tác giả và tập CSV cho phân tích sâu hơn (`eda/*.csv`).
 
-  == Phân tích sentiment — Kế hoạch ban đầu & quyết định
+  = Phân tích sentiment — Kế hoạch ban đầu & quyết định
   - Quy trình dự kiến: fine-tune `lxyuan/distilbert-base-multilingual-cased-
   sentiments-student` trên bộ nhãn phân tầng, hỗ trợ bởi Gemini (mục tiêu ≥
   5 000 annotate cho hiệu chỉnh và đánh giá).
@@ -272,18 +272,18 @@ BIẾN VỀ TÀI SẢN
   hoãn do hạn chế GPU và nhãn.]
   )
 
-  == Topic modeling & pipeline khía cạnh
+  = Topic modeling & pipeline khía cạnh
   CLI vận hành vòng lặp xác định — làm sạch → TF-IDF → SVD → KMeans → sentiment
   theo khía cạnh — cân bằng tự động hóa cho lặp nhanh với các flag rõ ràng
   cho người dùng muốn tùy chỉnh.
-  === Tiền xử lý
+  == Tiền xử lý
   - Chuẩn hóa Unicode (NFC), loại URL/khối code, chuyển chữ thường, loại ký
   tự không phải chữ cái nhưng giữ dấu nháy.
   - Lọc token giữ từ dài hơn hai ký tự và loại stopword mở rộng (bao gồm alias
   thương hiệu).
   - Bộ lọc alias/subreddit cho phép tạo corpus tập trung theo từng sản phẩm.
 
-  === Chọn đặc trưng & giảm chiều
+  == Chọn đặc trưng & giảm chiều
   - TF-IDF (`ngram_range = 1–2`) với `min_df` thích ứng (3 nếu N ≥ 300, ngược
   lại 2) và `max_df = 0.95`; vocabulary giới hạn ở `min(2000, 3N)` khi chạy auto
   (`run_pipeline.py:545`).
@@ -295,7 +295,7 @@ BIẾN VỀ TÀI SẢN
   - Cơ chế bảo vệ vocabulary rỗng tự động thử lại TF-IDF với `min_df = 1`, tránh
   việc chạy alias góc cạnh bị thất bại.
 
-  === Quy trình phân cụm
+  == Quy trình phân cụm
   - KMeans quét `k_min..k_max` (mặc định 3–8) dựa vào silhouette; `method.json`
   ghi lại phạm vi tìm kiếm, seed và score tốt nhất để phân tích biết vì sao chọn
   `k` đó.
@@ -310,7 +310,7 @@ BIẾN VỀ TÀI SẢN
   SVD và phân cụm KMeans.]
   )
 
-  === Trích khía cạnh & kết hợp sentiment
+  == Trích khía cạnh & kết hợp sentiment
   - Thành viên subreddit tự động chọn bộ seed khía cạnh (pin, nhiệt, độ thoải mái
   ...); tùy chọn TF-IDF expansion bổ sung thuật ngữ đặc thù corpus.
   - Ghép mẫu ở cấp câu; polarity VADER tạo bảng mentions, sentiment trung bình và
@@ -328,7 +328,7 @@ BIẾN VỀ TÀI SẢN
   // tích cực vs. tiêu cực.]
   // )
 
-  === artifact trọng tâm
+  == Artefact trọng tâm
   - `tfidf_vectorizer.joblib`, `svd_model.joblib`,
   `svd_explained_variance.json` — pipeline đặc trưng có thể tái sử dụng.
   - `kmeans_clusters.json` — kích thước cụm, top TF-IDF và bài đại diện gần
@@ -338,7 +338,7 @@ BIẾN VỀ TÀI SẢN
   cạnh, lọc bằng ngưỡng tần suất thích ứng.
   - PNG tùy chọn: `cluster_sizes.png`, `aspects_pos_neg.png` để kiểm tra nhanh.
 
-  == Deliverables & hướng dẫn sử dụng
+  = Deliverables & hướng dẫn sử dụng
   - Điểm vào CLI: `run_pipeline.py --data <parquet> --product <name> --aliases
   <comma-separated> --out <dir> [options]`.
   - Tham số cấu hình điều khiển vector hóa (`--min-df`, `--max-df`, `--max-
@@ -348,7 +348,7 @@ BIẾN VỀ TÀI SẢN
   - artifact cho Fiio FT1, Sennheiser HD600 và Sony WF-1000XM4 được lưu tại
   `extra/artifacts_ft1`, `extra/artifacts_hd600` và `extra/artifacts_m4`.
 
-  == Hạn chế & hướng phát triển
+  = Hạn chế & hướng phát triển
   - Sentiment vẫn dựa rule-based; thực thi kế hoạch fine-tune sẽ xử lý châm biếm và
   thuật ngữ đặc thù tốt hơn.
   - Nhánh NMF/LDA mới dựng khung, chưa sản phẩm hóa — bổ sung sẽ cho phép chủ đề
@@ -368,15 +368,15 @@ BIẾN VỀ TÀI SẢN
   nhóm hoãn huấn luyện transformer.]
   )
 
-  == Phụ lục
-  === Tài sản cốt lõi
+  = Phụ lục
+  == Tài sản cốt lõi
   - `plan.md` — kiến trúc chi tiết, phương án thay thế, heuristic đánh giá.
   - `eda/` — biểu đồ khám phá và tổng hợp CSV.
   - `run_pipeline.py` (thư mục gốc & `extra/`) — CLI chủ đề + sentiment khía cạnh
   tùy chỉnh.
   - `extra/bai_thuyet_trinh.typ` — slide Typst trình bày trên lớp.
 
-  === Ví dụ tóm tắt console (rút gọn)
+  == Ví dụ tóm tắt console (rút gọn)
   #block[
     #mono[
       N=742, V=1625, min_df=3, max_df=0.95, max_features=2000 \
