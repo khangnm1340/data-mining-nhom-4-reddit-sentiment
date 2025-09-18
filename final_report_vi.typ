@@ -47,9 +47,9 @@ BIẾN VỀ TÀI SẢN
       #align(center, block[
         #set align(left)
         #text(size: 14pt)[
-          Giảng Viên Hướng Dẫn: *T.S Trần Thế Vinh*\
+          *Giảng Viên Hướng Dẫn:* *T.S Trần Thế Vinh*\
 
-          Họ Và Tên Sinh Viên Thực Hiện Và MSSV: \
+          *Họ Và Tên Sinh Viên Thực Hiện Và MSSV:* \
           *Phạm Hoàng Thiện - 051205000064*\
           *Ngô Minh Khang - 086250511340*\
           *Nguyễn Văn Mạnh - 027205000040*\
